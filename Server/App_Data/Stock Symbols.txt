@@ -1,0 +1,5445 @@
+{
+"Comp" : [{
+"symbol":"A",
+"Cname":"AGILENT TECH INC"
+}, {
+"symbol":"AA",
+"Cname":"ALCOA CORP"
+}, {
+"symbol":"AABA",
+"Cname":"ALTABA INC."
+}, {
+"symbol":"AAL",
+"Cname":"AMERICAN AIRLINES GP"
+}, {
+"symbol":"AAN",
+"Cname":"AARON'S INC"
+}, {
+"symbol":"AAOI",
+"Cname":"APPLIED OPTOELECT CM"
+}, {
+"symbol":"AAP",
+"Cname":"ADVANCE AUTO PARTS"
+}, {
+"symbol":"AAPL",
+"Cname":"APPLE INC."
+}, {
+"symbol":"AAV",
+"Cname":"ADVANTAGE OIL & GAS"
+}, {
+"symbol":"AAWW",
+"Cname":"ATLAS AIR WW"
+}, {
+"symbol":"AAXN",
+"Cname":"AXON ENTERPRISE, INC"
+}, {
+"symbol":"AB",
+"Cname":"ALLIANCEBERNSTEIN"
+}, {
+"symbol":"ABB",
+"Cname":"ABB LTD"
+}, {
+"symbol":"ABBV",
+"Cname":"Abbvie Inc."
+}, {
+"symbol":"ABC",
+"Cname":"AMERISOURCEBERGEN CP"
+}, {
+"symbol":"ABEO",
+"Cname":"ABEONA THERAPEUTICS"
+}, {
+"symbol":"ABEV",
+"Cname":"Ambev S.A."
+}, {
+"symbol":"ABMD",
+"Cname":"ABIOMED INC"
+}, {
+"symbol":"ABT",
+"Cname":"ABBOTT LABORATORIES"
+}, {
+"symbol":"ABUS",
+"Cname":"ARBUTUS BIOPHARMA CP"
+}, {
+"symbol":"ABX",
+"Cname":"BARRICK GOLD CP"
+}, {
+"symbol":"ACAD",
+"Cname":"ACADIA PHARMACEUTICA"
+}, {
+"symbol":"ACHC",
+"Cname":"ACADIA HEALTHCR CO"
+}, {
+"symbol":"ACHN",
+"Cname":"ACHILLION PHARMACEUT"
+}, {
+"symbol":"ACIA",
+"Cname":"ACACIA COMMUNICA CM"
+}, {
+"symbol":"ACM",
+"Cname":"AECOM"
+}, {
+"symbol":"ACN",
+"Cname":"ACCENTURE PLC"
+}, {
+"symbol":"ACOR",
+"Cname":"ACORDA THERAPEUTICS"
+}, {
+"symbol":"ACRX",
+"Cname":"ACELRX PHARMACEUTICA"
+}, {
+"symbol":"ACTG",
+"Cname":"ACACIA RES-ACACIA"
+}, {
+"symbol":"ADBE",
+"Cname":"ADOBE SYSTEMS INC"
+}, {
+"symbol":"ADI",
+"Cname":"ANALOG DEVICES CMN"
+}, {
+"symbol":"ADM",
+"Cname":"ARCHER DANIELS MDLND"
+}, {
+"symbol":"ADMP",
+"Cname":"ADAMIS PHARMACEUTICL"
+}, {
+"symbol":"ADP",
+"Cname":"AUTOMATIC DATA PROCS"
+}, {
+"symbol":"ADS",
+"Cname":"ALLIANCE DATA SYS CP"
+}, {
+"symbol":"ADSK",
+"Cname":"AUTODESK INC"
+}, {
+"symbol":"ADT",
+"Cname":"ADT INC."
+}, {
+"symbol":"ADTN",
+"Cname":"ADTRAN INC"
+}, {
+"symbol":"ADVM",
+"Cname":"ADVERUM BIOTECHNLGS"
+}, {
+"symbol":"ADXS",
+"Cname":"ADVAXIS INC CMN STK"
+}, {
+"symbol":"AEE",
+"Cname":"AMEREN CP"
+}, {
+"symbol":"AEM",
+"Cname":"AGNICO EAGLE MINES"
+}, {
+"symbol":"AEO",
+"Cname":"AMER EAGLE OUTFITTER"
+}, {
+"symbol":"AEP",
+"Cname":"AMER ELECTRIC POW CO"
+}, {
+"symbol":"AER",
+"Cname":"AERCAP HOLDINGS N.V."
+}, {
+"symbol":"AERI",
+"Cname":"AERIE PHARMACEUTICAL"
+}, {
+"symbol":"AES",
+"Cname":"THE AES CORPORATION"
+}, {
+"symbol":"AET",
+"Cname":"AETNA INC. NEW"
+}, {
+"symbol":"AFL",
+"Cname":"A F L A C INC"
+}, {
+"symbol":"AFSI",
+"Cname":"AMTRUST FINANCIAL"
+}, {
+"symbol":"AG",
+"Cname":"FIRST MAJESTIC SILVE"
+}, {
+"symbol":"AGCO",
+"Cname":"AGCO CP"
+}, {
+"symbol":"AGEN",
+"Cname":"AGENUS INC."
+}, {
+"symbol":"AGI",
+"Cname":"ALAMOS GOLD INC."
+}, {
+"symbol":"AGIO",
+"Cname":"AGIOS PHARMACEUTICAL"
+}, {
+"symbol":"AGN",
+"Cname":"ALLERGAN PLC"
+}, {
+"symbol":"AGNC",
+"Cname":"AGNC INVESTMENT CORP"
+}, {
+"symbol":"AGO",
+"Cname":"ASSURED GUARANTY LTD"
+}, {
+"symbol":"AGQ",
+"Cname":"PROSHARES"
+}, {
+"symbol":"AHGP",
+"Cname":"ALLIANCE HOLDINGS GP"
+}, {
+"symbol":"AI",
+"Cname":"ARLINGTON ASSET CL A"
+}, {
+"symbol":"AIG",
+"Cname":"AMER INTL GROUP NEW"
+}, {
+"symbol":"AINV",
+"Cname":"APOLLO INVESTMENT CO"
+}, {
+"symbol":"AIR",
+"Cname":"A A R CP"
+}, {
+"symbol":"AJRD",
+"Cname":"AEROJET ROCKETDYNE"
+}, {
+"symbol":"AKAM",
+"Cname":"AKAMAI TECHNOLOGIES"
+}, {
+"symbol":"AKRX",
+"Cname":"AKORN INC"
+}, {
+"symbol":"AKS",
+"Cname":"A K STEEL HLDG CORP"
+}, {
+"symbol":"AL",
+"Cname":"AIR LEASING CORP"
+}, {
+"symbol":"ALB",
+"Cname":"ALBEMARLE CP"
+}, {
+"symbol":"ALGN",
+"Cname":"ALIGN TECHNOLOGY I"
+}, {
+"symbol":"ALGT",
+"Cname":"ALLEGIANT TRAVEL COM"
+}, {
+"symbol":"ALIM",
+"Cname":"ALIMERA SCIENCES INC"
+}, {
+"symbol":"ALK",
+"Cname":"ALASKA AIR GROUP INC"
+}, {
+"symbol":"ALKS",
+"Cname":"ALKERMES PLC"
+}, {
+"symbol":"ALL",
+"Cname":"ALLSTATE CP"
+}, {
+"symbol":"ALLE",
+"Cname":"ALLEGION PLC"
+}, {
+"symbol":"ALLT",
+"Cname":"ALLOT COMMUNICATIONS"
+}, {
+"symbol":"ALLY",
+"Cname":"ALLY FINANCIAL"
+}, {
+"symbol":"ALNY",
+"Cname":"ALNYLAM PHARMACEUT"
+}, {
+"symbol":"ALSN",
+"Cname":"ALLISON TRANSMISSION"
+}, {
+"symbol":"ALXN",
+"Cname":"ALEXION PHARM INC"
+}, {
+"symbol":"AM",
+"Cname":"ANTERO MIDSTREAM LP"
+}, {
+"symbol":"AMAG",
+"Cname":"AMAG PHARMACEUTICALS"
+}, {
+"symbol":"AMAT",
+"Cname":"APPLIED MATERIALS"
+}, {
+"symbol":"AMBA",
+"Cname":"AMBARELLA, INC."
+}, {
+"symbol":"AMBC",
+"Cname":"AMBAC FINANCIAL GRP"
+}, {
+"symbol":"AMC",
+"Cname":"AMC ENTERTAINMENT HL"
+}, {
+"symbol":"AMCX",
+"Cname":"AMC NETWORKS CL A"
+}, {
+"symbol":"AMD",
+"Cname":"ADV MICRO DEVICES"
+}, {
+"symbol":"AME",
+"Cname":"AMETEK INC"
+}, {
+"symbol":"AMED",
+"Cname":"AMEDISYS INC"
+}, {
+"symbol":"AMG",
+"Cname":"AFFILIATED MGRS GRP"
+}, {
+"symbol":"AMGN",
+"Cname":"AMGEN"
+}, {
+"symbol":"AMJ",
+"Cname":"JP MORGAN ALERIAN ET"
+}, {
+"symbol":"AMKR",
+"Cname":"AMKOR TECHNOLOGY"
+}, {
+"symbol":"AMLP",
+"Cname":"ALERIAN MLP"
+}, {
+"symbol":"AMP",
+"Cname":"AMERIPRISE FINANCIAL"
+}, {
+"symbol":"AMPE",
+"Cname":"AMPIO PHARMACEUTICAL"
+}, {
+"symbol":"AMRN",
+"Cname":"AMARIN CORP ADS"
+}, {
+"symbol":"AMSC",
+"Cname":"AMER SUPERCONDUCTOR"
+}, {
+"symbol":"AMT",
+"Cname":"AMER TOWER CP"
+}, {
+"symbol":"AMTD",
+"Cname":"TD AMERITRADE HD CM"
+}, {
+"symbol":"AMX",
+"Cname":"AMERICA MOVIL, S.A.B"
+}, {
+"symbol":"AMZN",
+"Cname":"AMAZON.COM INC"
+}, {
+"symbol":"AN",
+"Cname":"AUTONATION INC"
+}, {
+"symbol":"ANDV",
+"Cname":"Andeavor"
+}, {
+"symbol":"ANDX",
+"Cname":"ANDEAVOR LOGISTICS"
+}, {
+"symbol":"ANET",
+"Cname":"ARISTA NETWORKS, INC"
+}, {
+"symbol":"ANF",
+"Cname":"ABERCROMBIE & FITCH"
+}, {
+"symbol":"ANFI",
+"Cname":"AMIRA NATURE FOODS"
+}, {
+"symbol":"ANGI",
+"Cname":"ANGI HOMESERVICES A"
+}, {
+"symbol":"ANIK",
+"Cname":"ANIKA THERAPEUTICS"
+}, {
+"symbol":"ANIP",
+"Cname":"ANI  PHARMA INC"
+}, {
+"symbol":"ANTM",
+"Cname":"ANTHEM, INC."
+}, {
+"symbol":"ANW",
+"Cname":"AEGEAN MARINE PETROL"
+}, {
+"symbol":"AOBC",
+"Cname":"AMERN OUTDOOR BDS CM"
+}, {
+"symbol":"AON",
+"Cname":"AON plc"
+}, {
+"symbol":"AOS",
+"Cname":"SMITH A O CORP"
+}, {
+"symbol":"APA",
+"Cname":"APACHE CP"
+}, {
+"symbol":"APC",
+"Cname":"ANADARKO PETROLEUM"
+}, {
+"symbol":"APD",
+"Cname":"AIR PRODUCTS CHEM"
+}, {
+"symbol":"APH",
+"Cname":"AMPHENOL CP"
+}, {
+"symbol":"APLP",
+"Cname":"ARCHROCK PARTNERS LP"
+}, {
+"symbol":"APO",
+"Cname":"APOLLO GLOBAL MGMNT"
+}, {
+"symbol":"APRN",
+"Cname":"BLUE APRON CL A"
+}, {
+"symbol":"APTV",
+"Cname":"Aptiv PLC"
+}, {
+"symbol":"APU",
+"Cname":"AMERIGAS PARTNERS LP"
+}, {
+"symbol":"AR",
+"Cname":"ANTERO RESOURCES CP"
+}, {
+"symbol":"ARAY",
+"Cname":"ACCURAY INCORPORATED"
+}, {
+"symbol":"ARCB",
+"Cname":"ARCBEST CORP"
+}, {
+"symbol":"ARCC",
+"Cname":"ARES CAPITAL CORP"
+}, {
+"symbol":"ARCO",
+"Cname":"ARCOS DORADOS HLDGS"
+}, {
+"symbol":"AREX",
+"Cname":"APPROACH RES. INC."
+}, {
+"symbol":"ARII",
+"Cname":"AMERICAN RAILCAR IND"
+}, {
+"symbol":"ARLP",
+"Cname":"ALLIANCE RESOURCE PT"
+}, {
+"symbol":"ARLZ",
+"Cname":"ARALEZ PHARM INC"
+}, {
+"symbol":"ARNA",
+"Cname":"ARENA PHARMACEUTICAL"
+}, {
+"symbol":"ARNC",
+"Cname":"Arconic Inc."
+}, {
+"symbol":"AROC",
+"Cname":"Archrock, Inc."
+}, {
+"symbol":"ARR",
+"Cname":"ARMOUR RESIDENTIAL R"
+}, {
+"symbol":"ARRS",
+"Cname":"ARRIS GROUP INC"
+}, {
+"symbol":"ARRY",
+"Cname":"ARRAY BIOPHARMA INC"
+}, {
+"symbol":"ARW",
+"Cname":"ARROW ELCTS"
+}, {
+"symbol":"ARWR",
+"Cname":"ARROWHEAD PHARMA"
+}, {
+"symbol":"ASGN",
+"Cname":"ON ASSIGNMENT INC"
+}, {
+"symbol":"ASH",
+"Cname":"ASHLAND GLOBAL"
+}, {
+"symbol":"ASHR",
+"Cname":"XTRACKERS HARVEST CS"
+}, {
+"symbol":"ASML",
+"Cname":"ASML HLDG NY REG"
+}, {
+"symbol":"ASNA",
+"Cname":"ASCENA RETAIL GRP CM"
+}, {
+"symbol":"ASPS",
+"Cname":"ALTISOURCE PORTFOLIO"
+}, {
+"symbol":"AT",
+"Cname":"ATLANTIC POWER CORP"
+}, {
+"symbol":"ATGE",
+"Cname":"ADTALEM GLOBAL EDUCA"
+}, {
+"symbol":"ATH",
+"Cname":"Athene Holding Ltd."
+}, {
+"symbol":"ATHM",
+"Cname":"AUTOHOME INC."
+}, {
+"symbol":"ATHN",
+"Cname":"ATHENAHEALTH, INC."
+}, {
+"symbol":"ATHX",
+"Cname":"ATHERSYS INC"
+}, {
+"symbol":"ATI",
+"Cname":"ALLEGHENY TECH NEW"
+}, {
+"symbol":"ATRS",
+"Cname":"ANTARES PHARMA CMN"
+}, {
+"symbol":"ATVI",
+"Cname":"ACTIVISION BLIZZARD"
+}, {
+"symbol":"AU",
+"Cname":"ANGLOGOLD ASHANTI LT"
+}, {
+"symbol":"AUMN",
+"Cname":"Golden Minerals Co"
+}, {
+"symbol":"AUO",
+"Cname":"AU OPTRONICS CP ADS"
+}, {
+"symbol":"AUY",
+"Cname":"YAMANA GOLD INC"
+}, {
+"symbol":"AVAV",
+"Cname":"AEROVIRONMENT, INC."
+}, {
+"symbol":"AVB",
+"Cname":"AVALONBAY CMTYS"
+}, {
+"symbol":"AVD",
+"Cname":"AMER VANGUARD CP"
+}, {
+"symbol":"AVDL",
+"Cname":"AVADEL PHARMACEUTICA"
+}, {
+"symbol":"AVEO",
+"Cname":"AVEO PHARMACEUTICALS"
+}, {
+"symbol":"AVGO",
+"Cname":"BROADCOM LTD"
+}, {
+"symbol":"AVP",
+"Cname":"AVON PRODUCTS INC"
+}, {
+"symbol":"AVT",
+"Cname":"AVNET INC"
+}, {
+"symbol":"AVXL",
+"Cname":"ANAVEX LF SC CM"
+}, {
+"symbol":"AWI",
+"Cname":"ARMSTRONG WORLD INDU"
+}, {
+"symbol":"AWK",
+"Cname":"AMERICAN WTR WRKS CO"
+}, {
+"symbol":"AXAS",
+"Cname":"ABRAXAS PETRO CORP"
+}, {
+"symbol":"AXDX",
+"Cname":"ACCELERATE DIAGNOSTI"
+}, {
+"symbol":"AXL",
+"Cname":"AMER AXLE&MFG HLDS"
+}, {
+"symbol":"AXON",
+"Cname":"AXOVANT SCIENCES CMN"
+}, {
+"symbol":"AXP",
+"Cname":"AMER EXPRESS INC"
+}, {
+"symbol":"AXS",
+"Cname":"AXIS CAP HLDGS LTD"
+}, {
+"symbol":"AXTA",
+"Cname":"AXALTA COATING SYSTM"
+}, {
+"symbol":"AY",
+"Cname":"Atlantica Yield plc"
+}, {
+"symbol":"AYI",
+"Cname":"ACUITY BRANDS INC"
+}, {
+"symbol":"AZN",
+"Cname":"ASTRAZENECA PLC ADS"
+}, {
+"symbol":"AZO",
+"Cname":"AUTOZONE INC"
+}, {
+"symbol":"AZUL",
+"Cname":"AZUL S.A. ADS"
+}, {
+"symbol":"BA",
+"Cname":"BOEING CO"
+}, {
+"symbol":"BABA",
+"Cname":"ALIBABA GROUP HL LTD"
+}, {
+"symbol":"BABY",
+"Cname":"NATUS MEDICAL INC"
+}, {
+"symbol":"BAC",
+"Cname":"BK OF AMERICA CP"
+}, {
+"symbol":"BANC",
+"Cname":"BANC OF CALIFORNIA"
+}, {
+"symbol":"BAX",
+"Cname":"BAXTER INTL INC"
+}, {
+"symbol":"BB",
+"Cname":"BLACKBERRY LIMITED"
+}, {
+"symbol":"BBBY",
+"Cname":"BED BATH & BEYOND"
+}, {
+"symbol":"BBD",
+"Cname":"BANCO BRADESCO ADS"
+}, {
+"symbol":"BBT",
+"Cname":"BB&T CP"
+}, {
+"symbol":"BBW",
+"Cname":"BUILD A BEAR WORKSHP"
+}, {
+"symbol":"BBY",
+"Cname":"BEST BUY CO INC"
+}, {
+"symbol":"BC",
+"Cname":"BRUNSWICK CP"
+}, {
+"symbol":"BCC",
+"Cname":"BOISE CASCADE L.L.C."
+}, {
+"symbol":"BCE",
+"Cname":"B C E INC"
+}, {
+"symbol":"BCO",
+"Cname":"BRINKS COMPANY"
+}, {
+"symbol":"BCOR",
+"Cname":"BLUCORA, INC CMN"
+}, {
+"symbol":"BCOV",
+"Cname":"Brightcove Inc."
+}, {
+"symbol":"BCRX",
+"Cname":"BIOCRYST PHARMA INC"
+}, {
+"symbol":"BCS",
+"Cname":"BARCLAYS PLC ADR"
+}, {
+"symbol":"BDSI",
+"Cname":"BIODELIVERY SCI INTL"
+}, {
+"symbol":"BDX",
+"Cname":"BECTON DICKINSON  CO"
+}, {
+"symbol":"BEAT",
+"Cname":"BioTelemetry, Inc."
+}, {
+"symbol":"BEL",
+"Cname":"BELMOND LTD CL A"
+}, {
+"symbol":"BEN",
+"Cname":"FRANKLIN RES INC"
+}, {
+"symbol":"BERY",
+"Cname":"BERRY GLOBAL GROUP"
+}, {
+"symbol":"BFR",
+"Cname":"BBVA BANCO FRANCES"
+}, {
+"symbol":"BG",
+"Cname":"BUNGE LTD"
+}, {
+"symbol":"BGC",
+"Cname":"GEN CABLE CP"
+}, {
+"symbol":"BGCP",
+"Cname":"BGC PARTNERS CL A"
+}, {
+"symbol":"BGNE",
+"Cname":"BEIGENE, LTD. ADS"
+}, {
+"symbol":"BGS",
+"Cname":"B&G FOODS INC"
+}, {
+"symbol":"BHF",
+"Cname":"BRIGHTHOUSE FIN CMN"
+}, {
+"symbol":"BHGE",
+"Cname":"BAKER HUGHES A GE CO"
+}, {
+"symbol":"BHP",
+"Cname":"BHP BILLITON LIMITED"
+}, {
+"symbol":"BIB",
+"Cname":"PROSHRS ULTRA NQ BIO"
+}, {
+"symbol":"BID",
+"Cname":"SOTHEBYS"
+}, {
+"symbol":"BIDU",
+"Cname":"BAIDU, INC."
+}, {
+"symbol":"BIG",
+"Cname":"BIG LOTS INC"
+}, {
+"symbol":"BIIB",
+"Cname":"BIOGEN INC CMN"
+}, {
+"symbol":"BIOS",
+"Cname":"BIOSCRIP INC"
+}, {
+"symbol":"BIS",
+"Cname":"PROSHRS ULSHT NQ BIO"
+}, {
+"symbol":"BITA",
+"Cname":"BITAUTO HOLDINGS LTD"
+}, {
+"symbol":"BJRI",
+"Cname":"BJ'S RESTAURANTS INC"
+}, {
+"symbol":"BK",
+"Cname":"BANK OF NY MELLON CP"
+}, {
+"symbol":"BKD",
+"Cname":"BROOKDALE SENIOR LVG"
+}, {
+"symbol":"BKE",
+"Cname":"BUCKLE INC"
+}, {
+"symbol":"BKNG",
+"Cname":"Booking Holdings Inc."
+}, {
+"symbol":"BKS",
+"Cname":"BARNES & NOBLE"
+}, {
+"symbol":"BLDP",
+"Cname":"BALLARD POWER SYS"
+}, {
+"symbol":"BLDR",
+"Cname":"BUILDERS FIRSTSOURCE"
+}, {
+"symbol":"BLK",
+"Cname":"BLACKROCK INC"
+}, {
+"symbol":"BLL",
+"Cname":"BALL CP"
+}, {
+"symbol":"BLMN",
+"Cname":"BLOOMIN' BRANDS, INC"
+}, {
+"symbol":"BLUE",
+"Cname":"BLUEBIRD BIO CMN"
+}, {
+"symbol":"BMA",
+"Cname":"BANCO MACRO SA"
+}, {
+"symbol":"BMO",
+"Cname":"BANK OF MONTREAL"
+}, {
+"symbol":"BMRN",
+"Cname":"BIOMARIN PHARMACEUT"
+}, {
+"symbol":"BMS",
+"Cname":"BEMIS CO INC"
+}, {
+"symbol":"BMY",
+"Cname":"BRISTOL-MYERS SQUIBB"
+}, {
+"symbol":"BNED",
+"Cname":"BARNES & NOBLE EDUCA"
+}, {
+"symbol":"BNS",
+"Cname":"BANK OF NOVA SCOTIA"
+}, {
+"symbol":"BOFI",
+"Cname":"BOFI HOLDING, INC."
+}, {
+"symbol":"BOIL",
+"Cname":"PROSHARES ULT NATGAS"
+}, {
+"symbol":"BOX",
+"Cname":"BOX, INC. CL A"
+}, {
+"symbol":"BP",
+"Cname":"BP PLC"
+}, {
+"symbol":"BPI",
+"Cname":"BRIDGEPOINT EDUCATIO"
+}, {
+"symbol":"BPL",
+"Cname":"BUCKEYE PARTNERS LTD"
+}, {
+"symbol":"BPOP",
+"Cname":"POPULAR, INC."
+}, {
+"symbol":"BPT",
+"Cname":"B P PRUDHOE BAY UTS"
+}, {
+"symbol":"BR",
+"Cname":"BROADRIDGE FIN SOL"
+}, {
+"symbol":"BRFS",
+"Cname":"BRF  SA"
+}, {
+"symbol":"BRK.B",
+"Cname":"BERKSHIRE HATH HLD B"
+}, {
+"symbol":"BRKR",
+"Cname":"BRUKER CORPORATION"
+}, {
+"symbol":"BRS",
+"Cname":"BRISTOW GROUP INC"
+}, {
+"symbol":"BSX",
+"Cname":"BOSTON SCIENTIFIC CP"
+}, {
+"symbol":"BTE",
+"Cname":"BAYTEX ENERGY CORP"
+}, {
+"symbol":"BTI",
+"Cname":"BRITISH AMER TOB ADR"
+}, {
+"symbol":"BTX",
+"Cname":"BIOTIME INC"
+}, {
+"symbol":"BUD",
+"Cname":"ANH BSCH INB SA ADR"
+}, {
+"symbol":"BUFF",
+"Cname":"BLUE BUFFALO PET CMN"
+}, {
+"symbol":"BURL",
+"Cname":"BURLINGTON STORES"
+}, {
+"symbol":"BVN",
+"Cname":"BUENAVENTURA MINING"
+}, {
+"symbol":"BWA",
+"Cname":"BORG WARNER INC"
+}, {
+"symbol":"BWP",
+"Cname":"BOARDWALK PIPELINE"
+}, {
+"symbol":"BX",
+"Cname":"BLACKSTONE GRP LP UT"
+}, {
+"symbol":"BXE",
+"Cname":"BELLATRIX EXPLOR"
+}, {
+"symbol":"BXMT",
+"Cname":"BLACKSTONE MTG TR"
+}, {
+"symbol":"BXP",
+"Cname":"BOSTON PPTYS INC"
+}, {
+"symbol":"BYD",
+"Cname":"BOYD GAMING CORP"
+}, {
+"symbol":"BZH",
+"Cname":"BEAZER HOMES USA INC"
+}, {
+"symbol":"BZUN",
+"Cname":"BAOZUN INC. ADS"
+}, {
+"symbol":"C",
+"Cname":"CITIGROUP INC"
+}, {
+"symbol":"CA",
+"Cname":"CA INC"
+}, {
+"symbol":"CAG",
+"Cname":"CONAGRA BRANDS, INC"
+}, {
+"symbol":"CAH",
+"Cname":"CARDINAL HEALTH INC"
+}, {
+"symbol":"CAKE",
+"Cname":"CHEESECAKE FACT"
+}, {
+"symbol":"CALL",
+"Cname":"MAGICJACK VOCALTEC L"
+}, {
+"symbol":"CALM",
+"Cname":"CAL-MAINE FOODS IN"
+}, {
+"symbol":"CAMP",
+"Cname":"CALAMP CORP"
+}, {
+"symbol":"CAR",
+"Cname":"AVIS BUDGET GROUP, I"
+}, {
+"symbol":"CARA",
+"Cname":"CARA THERAPEUTICS"
+}, {
+"symbol":"CAT",
+"Cname":"CATERPILLAR INC"
+}, {
+"symbol":"CAVM",
+"Cname":"CAVIUM, INC."
+}, {
+"symbol":"CB",
+"Cname":"D/B/A CHUBB LTD NEW"
+}, {
+"symbol":"CBI",
+"Cname":"CHGO BRIDGE & IRON"
+}, {
+"symbol":"CBL",
+"Cname":"C B L & ASSOC PRP"
+}, {
+"symbol":"CBM",
+"Cname":"CAMBREX CP"
+}, {
+"symbol":"CBOE",
+"Cname":"CBOE GLOBAL MARKETS,"
+}, {
+"symbol":"CBRE",
+"Cname":"CBRE Group  Inc."
+}, {
+"symbol":"CBRL",
+"Cname":"CRACKER BARREL"
+}, {
+"symbol":"CBS",
+"Cname":"CBS CORP CL B"
+}, {
+"symbol":"CC",
+"Cname":"CHEMOURS CO"
+}, {
+"symbol":"CCE",
+"Cname":"COCA-COLA EUROPEAN P"
+}, {
+"symbol":"CCI",
+"Cname":"CROWN CASTLE INTL"
+}, {
+"symbol":"CCIH",
+"Cname":"CHINACACHE HLDGS ADR"
+}, {
+"symbol":"CCJ",
+"Cname":"CAMECO CP"
+}, {
+"symbol":"CCK",
+"Cname":"CROWN HOLDINGS INC"
+}, {
+"symbol":"CCL",
+"Cname":"CARNIVAL CORP"
+}, {
+"symbol":"CCLP",
+"Cname":"CSI COMPRESSCO CMN"
+}, {
+"symbol":"CCOI",
+"Cname":"COGENT COMM HLDGS"
+}, {
+"symbol":"CCRN",
+"Cname":"CROSS CTRY HLTHCR"
+}, {
+"symbol":"CCS",
+"Cname":"CENTURY COMMUNITIES"
+}, {
+"symbol":"CDE",
+"Cname":"COEUR MINING, INC."
+}, {
+"symbol":"CDK",
+"Cname":"CDK GLOBAL, INC."
+}, {
+"symbol":"CDMO",
+"Cname":"Avid Bioservices, Inc."
+}, {
+"symbol":"CDNS",
+"Cname":"CADENCE DESIGN SYS"
+}, {
+"symbol":"CDW",
+"Cname":"CDW CORPORATION"
+}, {
+"symbol":"CE",
+"Cname":"CELANESE CORPORATION"
+}, {
+"symbol":"CECO",
+"Cname":"CAREER EDUCATION"
+}, {
+"symbol":"CELG",
+"Cname":"CELGENE CORP"
+}, {
+"symbol":"CENX",
+"Cname":"CENTURY ALUMINUM C"
+}, {
+"symbol":"CEO",
+"Cname":"CNOOC LTD ADS"
+}, {
+"symbol":"CEQP",
+"Cname":"CRESTWOOD EQ PRTNRS"
+}, {
+"symbol":"CERN",
+"Cname":"CERNER CORP"
+}, {
+"symbol":"CERS",
+"Cname":"CERUS CORP"
+}, {
+"symbol":"CEVA",
+"Cname":"CEVA INC"
+}, {
+"symbol":"CF",
+"Cname":"CF IND HLDGS INC"
+}, {
+"symbol":"CFG",
+"Cname":"CITIZENS FINL GROUP"
+}, {
+"symbol":"CFR",
+"Cname":"CULLEN FROST BNKRS"
+}, {
+"symbol":"CFX",
+"Cname":"COLFAX CORPORATION"
+}, {
+"symbol":"CG",
+"Cname":"THE CARLYLE GROUP"
+}, {
+"symbol":"CGEN",
+"Cname":"COMPUGEN LTD"
+}, {
+"symbol":"CGNX",
+"Cname":"COGNEX CP"
+}, {
+"symbol":"CHGG",
+"Cname":"CHEGG, INC."
+}, {
+"symbol":"CHK",
+"Cname":"CHESAPEAKE ENERGY CP"
+}, {
+"symbol":"CHKP",
+"Cname":"CHECK POINT SOFTWARE"
+}, {
+"symbol":"CHKR",
+"Cname":"CHESAPEAKE GRANITE"
+}, {
+"symbol":"CHL",
+"Cname":"CHINA MOBILE LIMITED"
+}, {
+"symbol":"CHRW",
+"Cname":"C.H. ROBINSON WW"
+}, {
+"symbol":"CHS",
+"Cname":"CHICO'S F A S INC"
+}, {
+"symbol":"CHTR",
+"Cname":"CHARTER COMMUNICATIO"
+}, {
+"symbol":"CHU",
+"Cname":"CHINA UNICOM (HK)LTD"
+}, {
+"symbol":"CHUY",
+"Cname":"CHUY'S HOLDINGS, INC"
+}, {
+"symbol":"CI",
+"Cname":"CIGNA CP"
+}, {
+"symbol":"CIEN",
+"Cname":"CIENA CORP"
+}, {
+"symbol":"CIG",
+"Cname":"COMP ENERG CEMIG ADS"
+}, {
+"symbol":"CIM",
+"Cname":"CHIMERA INVESTMENT"
+}, {
+"symbol":"CIT",
+"Cname":"CIT GROUP, INC"
+}, {
+"symbol":"CL",
+"Cname":"COLGATE PALMOLIVE"
+}, {
+"symbol":"CLAR",
+"Cname":"Clarus Corporation"
+}, {
+"symbol":"CLB",
+"Cname":"CORE LABS NV"
+}, {
+"symbol":"CLD",
+"Cname":"CLOUD PEAK ENERGY IN"
+}, {
+"symbol":"CLDX",
+"Cname":"CELLDEX THERAPEUTICS"
+}, {
+"symbol":"CLF",
+"Cname":"CLEVELAND-CLIFFS INC"
+}, {
+"symbol":"CLH",
+"Cname":"CLEAN HARBORS INC"
+}, {
+"symbol":"CLMT",
+"Cname":"CALUMET SPECIALTY PR"
+}, {
+"symbol":"CLNE",
+"Cname":"CLEAN ENERGY FUELS"
+}, {
+"symbol":"CLNS",
+"Cname":"COLONY NORTHSTAR INC"
+}, {
+"symbol":"CLR",
+"Cname":"CONTINENTAL RESRCES"
+}, {
+"symbol":"CLVS",
+"Cname":"CLOVIS ONCOLOGY, INC"
+}, {
+"symbol":"CLX",
+"Cname":"CLOROX CO"
+}, {
+"symbol":"CM",
+"Cname":"CANADIAN IMP BK COMM"
+}, {
+"symbol":"CMA",
+"Cname":"COMERICA INC"
+}, {
+"symbol":"CMC",
+"Cname":"COMMERCIAL METALS CO"
+}, {
+"symbol":"CMCM",
+"Cname":"CHEETAH MOBILE ADS"
+}, {
+"symbol":"CMCSA",
+"Cname":"COMCAST CORP A"
+}, {
+"symbol":"CME",
+"Cname":"CME GROUP INC"
+}, {
+"symbol":"CMG",
+"Cname":"CHIPOTLE MEX GRILL"
+}, {
+"symbol":"CMI",
+"Cname":"CUMMINS INC"
+}, {
+"symbol":"CMP",
+"Cname":"COMPASS MINERALS INT"
+}, {
+"symbol":"CMPR",
+"Cname":"CIMPRESS N.V. ORD"
+}, {
+"symbol":"CMRX",
+"Cname":"CHIMERIX, INC."
+}, {
+"symbol":"CMS",
+"Cname":"CMS ENERGY CP"
+}, {
+"symbol":"CNAT",
+"Cname":"CONATUS PHARMACEUTIC"
+}, {
+"symbol":"CNC",
+"Cname":"CENTENE CORP"
+}, {
+"symbol":"CNDT",
+"Cname":"CONDUENT INC."
+}, {
+"symbol":"CNI",
+"Cname":"CANADIAN NATL RAILWY"
+}, {
+"symbol":"CNP",
+"Cname":"CENTERPOINT ENERGY"
+}, {
+"symbol":"CNQ",
+"Cname":"CANADIAN NAT RES"
+}, {
+"symbol":"CNX",
+"Cname":"CONS ENERGY INC"
+}, {
+"symbol":"COF",
+"Cname":"CAPITAL ONE FINANCIA"
+}, {
+"symbol":"COG",
+"Cname":"CABOT OIL GAS CP"
+}, {
+"symbol":"COL",
+"Cname":"ROCKWELL COLLINS INC"
+}, {
+"symbol":"COLM",
+"Cname":"COLUMBIA SPRTSWR"
+}, {
+"symbol":"COMM",
+"Cname":"COMMSCOPE HOLDING CO"
+}, {
+"symbol":"CONE",
+"Cname":"CYRUSONE INC CMN"
+}, {
+"symbol":"CONN",
+"Cname":"CONN'S, INC."
+}, {
+"symbol":"COO",
+"Cname":"COOPER COS INC"
+}, {
+"symbol":"COP",
+"Cname":"CONOCOPHILLIPS"
+}, {
+"symbol":"CORN",
+"Cname":"TEUCRIUM CORN FUND"
+}, {
+"symbol":"COST",
+"Cname":"COSTCO WHOLESALE"
+}, {
+"symbol":"COT",
+"Cname":"COTT CP"
+}, {
+"symbol":"COTY",
+"Cname":"COTY INC."
+}, {
+"symbol":"CP",
+"Cname":"CANADIAN PAC RAILWAY"
+}, {
+"symbol":"CPA",
+"Cname":"COPA HOLDINGS S.A."
+}, {
+"symbol":"CPB",
+"Cname":"CAMPBELL SOUP CO"
+}, {
+"symbol":"CPE",
+"Cname":"CALLON PETROLEUM"
+}, {
+"symbol":"CPLP",
+"Cname":"CAPITAL PRODUCT PART"
+}, {
+"symbol":"CPRT",
+"Cname":"COPART, INC."
+}, {
+"symbol":"CQP",
+"Cname":"CHENIERE ENERGY LP"
+}, {
+"symbol":"CRAY",
+"Cname":"CRAY INC"
+}, {
+"symbol":"CRC",
+"Cname":"CALIFORNIA RES CP"
+}, {
+"symbol":"CREE",
+"Cname":"CREE, INC."
+}, {
+"symbol":"CRI",
+"Cname":"CARTER'S INC"
+}, {
+"symbol":"CRIS",
+"Cname":"CURIS INC"
+}, {
+"symbol":"CRK",
+"Cname":"COMSTOCK RES"
+}, {
+"symbol":"CRM",
+"Cname":"SALESFORCE.COM INC"
+}, {
+"symbol":"CRME",
+"Cname":"CARDIOME PHARMA CORP"
+}, {
+"symbol":"CROX",
+"Cname":"CROCS, INC."
+}, {
+"symbol":"CRR",
+"Cname":"CARBO CERAMICS INC"
+}, {
+"symbol":"CRTO",
+"Cname":"CRITEO S.A. ADS"
+}, {
+"symbol":"CRUS",
+"Cname":"CIRRUS LOGIC INC"
+}, {
+"symbol":"CRZO",
+"Cname":"CARRIZO OIL & GAS"
+}, {
+"symbol":"CSCO",
+"Cname":"CISCO SYSTEMS INC"
+}, {
+"symbol":"CSIQ",
+"Cname":"CANADIAN SOLAR INC."
+}, {
+"symbol":"CSLT",
+"Cname":"Castlight Health Inc"
+}, {
+"symbol":"CSOD",
+"Cname":"CORNERSTONE ONDEMAND"
+}, {
+"symbol":"CSTE",
+"Cname":"CAESARSTONE LTD."
+}, {
+"symbol":"CSTM",
+"Cname":"CONSTELLIUM N.V."
+}, {
+"symbol":"CSU",
+"Cname":"CAPITAL SR LIVING CP"
+}, {
+"symbol":"CSX",
+"Cname":"CSX CORPORATION"
+}, {
+"symbol":"CTAS",
+"Cname":"CINTAS CORP"
+}, {
+"symbol":"CTB",
+"Cname":"COOPER TIRE RUBBER"
+}, {
+"symbol":"CTIC",
+"Cname":"CTI BIOPHARM CORP."
+}, {
+"symbol":"CTL",
+"Cname":"CENTURYLINK, INC"
+}, {
+"symbol":"CTRL",
+"Cname":"CONTROL4 CORPORATION"
+}, {
+"symbol":"CTRP",
+"Cname":"CTRIP.COM INTL LTD"
+}, {
+"symbol":"CTSH",
+"Cname":"COGNIZANT TECH SOL"
+}, {
+"symbol":"CTXS",
+"Cname":"CITRIX SYSTEMS INC"
+}, {
+"symbol":"CUR",
+"Cname":"NEURALSTEM INC"
+}, {
+"symbol":"CVA",
+"Cname":"COVANTA HLD CP"
+}, {
+"symbol":"CVE",
+"Cname":"CENOVUS ENERGY INC"
+}, {
+"symbol":"CVEO",
+"Cname":"Civeo Corporation"
+}, {
+"symbol":"CVI",
+"Cname":"CVR ENERGY INC"
+}, {
+"symbol":"CVLT",
+"Cname":"COMMVAULT SYSTEMS"
+}, {
+"symbol":"CVNA",
+"Cname":"CARVANA CO. CL A"
+}, {
+"symbol":"CVRR",
+"Cname":"CVR REFINING, LP"
+}, {
+"symbol":"CVS",
+"Cname":"CVS HEALTHCP"
+}, {
+"symbol":"CVX",
+"Cname":"CHEVRON CORP"
+}, {
+"symbol":"CX",
+"Cname":"CEMEX SAB DE CV ADR"
+}, {
+"symbol":"CXDC",
+"Cname":"CHINA XD PLASTICS CO"
+}, {
+"symbol":"CXO",
+"Cname":"CONCHO RESOURCES INC"
+}, {
+"symbol":"CXRX",
+"Cname":"CONCORDIA INT'L CP."
+}, {
+"symbol":"CXW",
+"Cname":"CORECIVIC, INC."
+}, {
+"symbol":"CY",
+"Cname":"CYPRESS SEMICONDUCTR"
+}, {
+"symbol":"CYBR",
+"Cname":"CYBERARK SOFT ORD"
+}, {
+"symbol":"CYH",
+"Cname":"COMMUNITY HEALTH"
+}, {
+"symbol":"CYOU",
+"Cname":"CHANGYOU.COM LIMITED"
+}, {
+"symbol":"CYS",
+"Cname":"CYS INVESTMENTS, INC"
+}, {
+"symbol":"CYTK",
+"Cname":"CYTOKINETICS"
+}, {
+"symbol":"CYTR",
+"Cname":"CYTRX CP"
+}, {
+"symbol":"CYTX",
+"Cname":"CYTORI THERAPEUTICS"
+}, {
+"symbol":"CZR",
+"Cname":"CAESARS ENTERTNMT"
+}, {
+"symbol":"D",
+"Cname":"DOMINION ENERGY, INC"
+}, {
+"symbol":"DAL",
+"Cname":"DELTA AIR LINES, INC"
+}, {
+"symbol":"DAN",
+"Cname":"DANA INCORPORATED"
+}, {
+"symbol":"DAR",
+"Cname":"DARLING INGREDIENTS"
+}, {
+"symbol":"DATA",
+"Cname":"TABLEAU SOFTWARE INC"
+}, {
+"symbol":"DB",
+"Cname":"DEUTSCHE BANK AG"
+}, {
+"symbol":"DBA",
+"Cname":"POWERSHARES DB AGRIC"
+}, {
+"symbol":"DBD",
+"Cname":"DIEBOLD NIXDORF INC."
+}, {
+"symbol":"DBX",
+"Cname":"DROPBOX INC."
+}, {
+"symbol":"DCP",
+"Cname":"DCP MIDSTREAM LP"
+}, {
+"symbol":"DDD",
+"Cname":"3 D  SYSTEMS CP"
+}, {
+"symbol":"DDR",
+"Cname":"DDR Corp."
+}, {
+"symbol":"DDS",
+"Cname":"DILLARD'S INC"
+}, {
+"symbol":"DE",
+"Cname":"DEERE CO"
+}, {
+"symbol":"DECK",
+"Cname":"DECKERS OUTDOOR CP"
+}, {
+"symbol":"DENN",
+"Cname":"DENNYS CORP"
+}, {
+"symbol":"DEO",
+"Cname":"DIAGEO PLC ADS NEW"
+}, {
+"symbol":"DEPO",
+"Cname":"DEPOMED INC"
+}, {
+"symbol":"DF",
+"Cname":"DEAN FOODS CO"
+}, {
+"symbol":"DFRG",
+"Cname":"DEL FRISCO'S RESTRNT"
+}, {
+"symbol":"DFS",
+"Cname":"DISCOVER FIN SVCS"
+}, {
+"symbol":"DG",
+"Cname":"DOLLAR GENERAL CORP"
+}, {
+"symbol":"DGX",
+"Cname":"QUEST DIAGNOSTC"
+}, {
+"symbol":"DHI",
+"Cname":"D R HORTON INC"
+}, {
+"symbol":"DHR",
+"Cname":"DANAHER CP"
+}, {
+"symbol":"DHT",
+"Cname":"DHT Holdings, Inc."
+}, {
+"symbol":"DIA",
+"Cname":"SPDR DJIA ETF TRUST"
+}, {
+"symbol":"DIN",
+"Cname":"DINEEQUITY, INC"
+}, {
+"symbol":"DIS",
+"Cname":"WALT DISNEY-DISNEY C"
+}, {
+"symbol":"DISCA",
+"Cname":"DISCOVERY COMM A"
+}, {
+"symbol":"DISCK",
+"Cname":"DISCOVERY COMM INC"
+}, {
+"symbol":"DISH",
+"Cname":"DISH NETWORK CORP"
+}, {
+"symbol":"DK",
+"Cname":"DELEK US HOLDINGS, I"
+}, {
+"symbol":"DKS",
+"Cname":"DICK'S SPORTING GDS"
+}, {
+"symbol":"DLB",
+"Cname":"DOLBY LABORATORIES"
+}, {
+"symbol":"DLR",
+"Cname":"DIGITAL REALTY TRUST"
+}, {
+"symbol":"DLTR",
+"Cname":"DOLLAR TREE INC"
+}, {
+"symbol":"DNB",
+"Cname":"THE NEW D&B CORP"
+}, {
+"symbol":"DNKN",
+"Cname":"DUNKIN' BRANDS GROUP"
+}, {
+"symbol":"DNOW",
+"Cname":"NOW INC."
+}, {
+"symbol":"DNR",
+"Cname":"DENBURY RES INC"
+}, {
+"symbol":"DO",
+"Cname":"DIAMOND OFFSHORE DRL"
+}, {
+"symbol":"DORM",
+"Cname":"DORMAN PRODUCTS INC"
+}, {
+"symbol":"DOV",
+"Cname":"DOVER CP"
+}, {
+"symbol":"DPLO",
+"Cname":"DIPLOMAT PHARMACY"
+}, {
+"symbol":"DPS",
+"Cname":"DR PEPPER SNAPPLE GP"
+}, {
+"symbol":"DPZ",
+"Cname":"DOMINOS PIZZA INC"
+}, {
+"symbol":"DRI",
+"Cname":"DARDEN RESTAURANTS"
+}, {
+"symbol":"DS",
+"Cname":"Drive Shack Inc."
+}, {
+"symbol":"DSW",
+"Cname":"DSW INC."
+}, {
+"symbol":"DSX",
+"Cname":"DIANA SHIPPING INC."
+}, {
+"symbol":"DTE",
+"Cname":"D T E ENERGY CO HLDG"
+}, {
+"symbol":"DUK",
+"Cname":"DUKE ENERGY CP HL CO"
+}, {
+"symbol":"DUST",
+"Cname":"DXN DLY GLDMNR NDX B"
+}, {
+"symbol":"DVA",
+"Cname":"DAVITA INC. CMN STK"
+}, {
+"symbol":"DVAX",
+"Cname":"Dynavax Technologies"
+}, {
+"symbol":"DVN",
+"Cname":"DEVON ENERGY CP (OK)"
+}, {
+"symbol":"DVY",
+"Cname":"ISHARES SELECT DIVD"
+}, {
+"symbol":"DWDP",
+"Cname":"DowDuPont Inc."
+}, {
+"symbol":"DXC",
+"Cname":"DXC TECHNOLOGY CO."
+}, {
+"symbol":"DXCM",
+"Cname":"DEXCOM"
+}, {
+"symbol":"DXD",
+"Cname":"PROSHARES ULTRASHORT"
+}, {
+"symbol":"DXJ",
+"Cname":"WISDOMTREE JAP HDG"
+}, {
+"symbol":"DY",
+"Cname":"DYCOM INDS INC"
+}, {
+"symbol":"EA",
+"Cname":"ELECTRONIC ARTS INC"
+}, {
+"symbol":"EAT",
+"Cname":"BRINKER INTL INC"
+}, {
+"symbol":"EBAY",
+"Cname":"EBAY INC."
+}, {
+"symbol":"EBIX",
+"Cname":"EBIX INC"
+}, {
+"symbol":"ECA",
+"Cname":"ENCANA CORP"
+}, {
+"symbol":"ECHO",
+"Cname":"Echo Global Logistic"
+}, {
+"symbol":"ECL",
+"Cname":"ECOLAB INC"
+}, {
+"symbol":"ECOM",
+"Cname":"CHANNELADVISOR CORP"
+}, {
+"symbol":"ECR",
+"Cname":"ECLIPSE RESOURCES CP"
+}, {
+"symbol":"ECYT",
+"Cname":"ENDOCYTE, INC"
+}, {
+"symbol":"ED",
+"Cname":"CONS EDISON INC"
+}, {
+"symbol":"EDAP",
+"Cname":"EDAP TMS SA ADR"
+}, {
+"symbol":"EDC",
+"Cname":"EMERGING MKTS BULL3X"
+}, {
+"symbol":"EDIT",
+"Cname":"EDITAS MEDICINE CM"
+}, {
+"symbol":"EDU",
+"Cname":"NEW ORIENTAL EDUCATI"
+}, {
+"symbol":"EEFT",
+"Cname":"EURONET WORLDWIDE"
+}, {
+"symbol":"EEM",
+"Cname":"ISHARES MSCI E.M.I.F"
+}, {
+"symbol":"EEP",
+"Cname":"ENBRIDGE EGY PT LP"
+}, {
+"symbol":"EFA",
+"Cname":"ISHARES MSCI EAFE ET"
+}, {
+"symbol":"EFOI",
+"Cname":"ENERGY FOCUS CMN"
+}, {
+"symbol":"EFX",
+"Cname":"EQUIFAX INC"
+}, {
+"symbol":"EGHT",
+"Cname":"8X8 INC"
+}, {
+"symbol":"EGLT",
+"Cname":"EGALET CORPORATION"
+}, {
+"symbol":"EGN",
+"Cname":"ENERGEN CP"
+}, {
+"symbol":"EGO",
+"Cname":"ELDORADO GOLD CORP"
+}, {
+"symbol":"EGRX",
+"Cname":"EAGLE PHARMACEUTICAL"
+}, {
+"symbol":"EHTH",
+"Cname":"EHEALTH, INC."
+}, {
+"symbol":"EIGI",
+"Cname":"ENDURANCE INT GRP"
+}, {
+"symbol":"EIX",
+"Cname":"EDISON INTL"
+}, {
+"symbol":"EL",
+"Cname":"ESTEE LAUDER COS INC"
+}, {
+"symbol":"ELLI",
+"Cname":"ELLIE MAE, INC."
+}, {
+"symbol":"ELY",
+"Cname":"CALLAWAY GOLF CP"
+}, {
+"symbol":"EMES",
+"Cname":"EMERGE ENERGY SVCS"
+}, {
+"symbol":"EMN",
+"Cname":"EASTMAN CHEM CO"
+}, {
+"symbol":"EMR",
+"Cname":"EMERSON ELEC CO"
+}, {
+"symbol":"ENB",
+"Cname":"ENBRIDGE INC"
+}, {
+"symbol":"ENDP",
+"Cname":"ENDO INT'L PLC"
+}, {
+"symbol":"ENLK",
+"Cname":"ENLINK MIDSTREAM PRT"
+}, {
+"symbol":"ENPH",
+"Cname":"ENPHASE ENERGY, INC."
+}, {
+"symbol":"ENS",
+"Cname":"ENERSYS"
+}, {
+"symbol":"ENT",
+"Cname":"GLOBAL EAGLE ENTRTN"
+}, {
+"symbol":"ENTG",
+"Cname":"ENTEGRIS INC"
+}, {
+"symbol":"ENVA",
+"Cname":"ENOVA INT'L INC"
+}, {
+"symbol":"EOG",
+"Cname":"EOG RESOURCES INC"
+}, {
+"symbol":"EPC",
+"Cname":"EDGEWELL PERSONAL"
+}, {
+"symbol":"EPD",
+"Cname":"ENTERPRISE PT UTS"
+}, {
+"symbol":"EPE",
+"Cname":"EP ENERGY CORP."
+}, {
+"symbol":"EPI",
+"Cname":"WISDOMTREE INDIA"
+}, {
+"symbol":"EPZM",
+"Cname":"EPIZYME, INC CMN STK"
+}, {
+"symbol":"EQC",
+"Cname":"Equity Commonwealth"
+}, {
+"symbol":"EQIX",
+"Cname":"EQUINIX, INC."
+}, {
+"symbol":"EQM",
+"Cname":"EQT MIDSTREAM PRTNRS"
+}, {
+"symbol":"EQR",
+"Cname":"EQUITY RESIDENTAL"
+}, {
+"symbol":"EQT",
+"Cname":"EQT CORPORATION"
+}, {
+"symbol":"ERF",
+"Cname":"ENERPLUS CORP"
+}, {
+"symbol":"ERIC",
+"Cname":"ERICSSON ADR"
+}, {
+"symbol":"EROS",
+"Cname":"EROS INT'L PLC"
+}, {
+"symbol":"ERX",
+"Cname":"ENERGY BULL 3X"
+}, {
+"symbol":"ERY",
+"Cname":"ENERGY DAILY BEAR 3X"
+}, {
+"symbol":"ES",
+"Cname":"Eversource Energy"
+}, {
+"symbol":"ESPR",
+"Cname":"ESPERION THERAPTC CM"
+}, {
+"symbol":"ESRX",
+"Cname":"EXPRESS SCRIPTS"
+}, {
+"symbol":"ESV",
+"Cname":"Ensco PLC"
+}, {
+"symbol":"ETE",
+"Cname":"ENRGY TRANSFER EQ LP"
+}, {
+"symbol":"ETFC",
+"Cname":"E*TRADE FINL CORP"
+}, {
+"symbol":"ETM",
+"Cname":"ENTERCOM COMMUN CP"
+}, {
+"symbol":"ETN",
+"Cname":"EATON CP PLC"
+}, {
+"symbol":"ETP",
+"Cname":"ENERGY TRF PRTNS"
+}, {
+"symbol":"ETR",
+"Cname":"ENTERGY CP"
+}, {
+"symbol":"ETSY",
+"Cname":"ETSY INC COMMON STK"
+}, {
+"symbol":"EUO",
+"Cname":"PROSHS ULTRASHT EURO"
+}, {
+"symbol":"EVEP",
+"Cname":"EV ENERGY PARTNERS"
+}, {
+"symbol":"EVHC",
+"Cname":"ENVISION HLTCR CP"
+}, {
+"symbol":"EVR",
+"Cname":"EVERCORE INC."
+}, {
+"symbol":"EW",
+"Cname":"EDWARDS LIFESCIENCES"
+}, {
+"symbol":"EWA",
+"Cname":"ISHARE MSCI AUSTRALI"
+}, {
+"symbol":"EWC",
+"Cname":"ISHARE MSCI CANADA"
+}, {
+"symbol":"EWG",
+"Cname":"ISHARE MSCI GERMANY"
+}, {
+"symbol":"EWH",
+"Cname":"ISHARE MSCI HONGKONG"
+}, {
+"symbol":"EWJ",
+"Cname":"ISHARE MSCI JAPAN IN"
+}, {
+"symbol":"EWT",
+"Cname":"ISHARE MSCI TAIWAN"
+}, {
+"symbol":"EWW",
+"Cname":"ISHARE MSCI MEXICO"
+}, {
+"symbol":"EWY",
+"Cname":"ISHARE MSCI SO.KOREA"
+}, {
+"symbol":"EWZ",
+"Cname":"ISHARE MSCI BRAZIL"
+}, {
+"symbol":"EXAS",
+"Cname":"EXACT SCIENCES COR"
+}, {
+"symbol":"EXC",
+"Cname":"EXELON CORPORATION"
+}, {
+"symbol":"EXEL",
+"Cname":"EXELIXIS, INC."
+}, {
+"symbol":"EXK",
+"Cname":"ENDEAVOUR SILVER COR"
+}, {
+"symbol":"EXP",
+"Cname":"EAGLE MATERIALS INC"
+}, {
+"symbol":"EXPD",
+"Cname":"EXPEDITORS INTL"
+}, {
+"symbol":"EXPE",
+"Cname":"EXPEDIA, INC."
+}, {
+"symbol":"EXPR",
+"Cname":"EXPRESS, INC."
+}, {
+"symbol":"EYES",
+"Cname":"SECOND SIGHT CMN"
+}, {
+"symbol":"EYPT",
+"Cname":"EyePoint Pharmaceuticals, Inc."
+}, {
+"symbol":"EZPW",
+"Cname":"EZCORP, INC."
+}, {
+"symbol":"F",
+"Cname":"FORD MOTOR CO"
+}, {
+"symbol":"FANG",
+"Cname":"DIAMONDBACK ENERGY"
+}, {
+"symbol":"FAS",
+"Cname":"FINANCIAL BULL 3XNEW"
+}, {
+"symbol":"FAST",
+"Cname":"FASTENAL CO"
+}, {
+"symbol":"FAZ",
+"Cname":"FINANCIAL BEAR 3XNEW"
+}, {
+"symbol":"FB",
+"Cname":"FACEBOOK INC"
+}, {
+"symbol":"FBHS",
+"Cname":"FORTUNE BRANDS HOME"
+}, {
+"symbol":"FBIO",
+"Cname":"FORTRESS BIOTECH INC"
+}, {
+"symbol":"FCAU",
+"Cname":"FIAT CHRYSLER AUTO N"
+}, {
+"symbol":"FCEL",
+"Cname":"FUELCELL ENERGY INC"
+}, {
+"symbol":"FCN",
+"Cname":"FTI CONSULTING INC"
+}, {
+"symbol":"FCX",
+"Cname":"FREEPORT MCMORAN"
+}, {
+"symbol":"FDC",
+"Cname":"FIRST DATA CORP"
+}, {
+"symbol":"FDS",
+"Cname":"FACTSET RESEARCH SYS"
+}, {
+"symbol":"FDX",
+"Cname":"FEDEX CORP"
+}, {
+"symbol":"FE",
+"Cname":"FIRSTENERGY CP"
+}, {
+"symbol":"FENG",
+"Cname":"PHOENIX NEW MEDIA"
+}, {
+"symbol":"FEYE",
+"Cname":"FireEye, Inc."
+}, {
+"symbol":"FFIV",
+"Cname":"F5 NETWORKS, INC."
+}, {
+"symbol":"FGP",
+"Cname":"FERRELLGAS PARTNERS"
+}, {
+"symbol":"FHN",
+"Cname":"FIRST HORIZON NTL CP"
+}, {
+"symbol":"FINL",
+"Cname":"FINISH LINE CL A"
+}, {
+"symbol":"FIS",
+"Cname":"FIDELITY NAT INF SVC"
+}, {
+"symbol":"FISV",
+"Cname":"FISERV, INC."
+}, {
+"symbol":"FIT",
+"Cname":"Fitbit, Inc."
+}, {
+"symbol":"FITB",
+"Cname":"FIFTH THIRD BNCP"
+}, {
+"symbol":"FIVE",
+"Cname":"FIVE BELOW, INC."
+}, {
+"symbol":"FL",
+"Cname":"FOOT LOCKER, INC."
+}, {
+"symbol":"FLDM",
+"Cname":"Fluidigm Corporation"
+}, {
+"symbol":"FLEX",
+"Cname":"FLEX LTD."
+}, {
+"symbol":"FLOW",
+"Cname":"SPX FLOW, INC."
+}, {
+"symbol":"FLR",
+"Cname":"FLUOR CP (NEW)"
+}, {
+"symbol":"FLS",
+"Cname":"FLOWSERVE CP"
+}, {
+"symbol":"FLT",
+"Cname":"FLEETCOR TECH"
+}, {
+"symbol":"FLXN",
+"Cname":"FLEXION THERAPEUTICS"
+}, {
+"symbol":"FLY",
+"Cname":"FLY LEASING LTD"
+}, {
+"symbol":"FMC",
+"Cname":"F M C CP"
+}, {
+"symbol":"FMI",
+"Cname":"FOUNDATION MEDICINE"
+}, {
+"symbol":"FMSA",
+"Cname":"FAIRMOUNT SANTROL"
+}, {
+"symbol":"FNF",
+"Cname":"FNF GROUP"
+}, {
+"symbol":"FNSR",
+"Cname":"FINISAR CORP"
+}, {
+"symbol":"FNV",
+"Cname":"FRANCO-NEV CORP"
+}, {
+"symbol":"FOLD",
+"Cname":"Amicus Therapeutics"
+}, {
+"symbol":"FOSL",
+"Cname":"FOSSIL GROUP CMN STK"
+}, {
+"symbol":"FOX",
+"Cname":"21ST CENTRY FOX B CM"
+}, {
+"symbol":"FOXA",
+"Cname":"21ST CENTRY FOX A CM"
+}, {
+"symbol":"FRAN",
+"Cname":"FRANCESCA'S HOLDINGS"
+}, {
+"symbol":"FRED",
+"Cname":"FRED'S INC"
+}, {
+"symbol":"FRGI",
+"Cname":"FIESTA RESTAURANT GP"
+}, {
+"symbol":"FRO",
+"Cname":"FRONTLINE LTD"
+}, {
+"symbol":"FRPT",
+"Cname":"FRESHPET INC CS"
+}, {
+"symbol":"FRSH",
+"Cname":"PAPA MURPHYS HLD COM"
+}, {
+"symbol":"FSLR",
+"Cname":"FIRST SOLAR, INC."
+}, {
+"symbol":"FTI",
+"Cname":"TechnipFMC plc"
+}, {
+"symbol":"FTK",
+"Cname":"FLOTEK INDS INC (DE)"
+}, {
+"symbol":"FTNT",
+"Cname":"FORTINET, INC."
+}, {
+"symbol":"FTR",
+"Cname":"FRONTIER COMMUN CP"
+}, {
+"symbol":"FXA",
+"Cname":"CRRNCYSHR AUS DLR TR"
+}, {
+"symbol":"FXC",
+"Cname":"CRRNCYSHRS CAN DL TR"
+}, {
+"symbol":"FXE",
+"Cname":"CURRENCYSHARES EURO"
+}, {
+"symbol":"FXI",
+"Cname":"ISHARES CHINA"
+}, {
+"symbol":"FXP",
+"Cname":"PROSHARES ULTRASHORT"
+}, {
+"symbol":"FXY",
+"Cname":"CRNCYSHRS JPN YEN TR"
+}, {
+"symbol":"G",
+"Cname":"GENPACT LIMITED"
+}, {
+"symbol":"GALT",
+"Cname":"GALECTIN THERAPEUTIC"
+}, {
+"symbol":"GASL",
+"Cname":"DXN DLY NAT GAS 3X B"
+}, {
+"symbol":"GBT",
+"Cname":"GLOBAL BLOOD THER CM"
+}, {
+"symbol":"GBX",
+"Cname":"GREENBRIER CO INC"
+}, {
+"symbol":"GD",
+"Cname":"GEN DYNAMICS CP"
+}, {
+"symbol":"GDDY",
+"Cname":"GoDaddy Inc."
+}, {
+"symbol":"GDOT",
+"Cname":"GREEN DOT CORP"
+}, {
+"symbol":"GDX",
+"Cname":"VE VECT GOLD MNRS"
+}, {
+"symbol":"GDXJ",
+"Cname":"VANECK VECTORS JUNIO"
+}, {
+"symbol":"GE",
+"Cname":"GEN ELECTRIC CO"
+}, {
+"symbol":"GEL",
+"Cname":"GENESIS ENERGY LP"
+}, {
+"symbol":"GEO",
+"Cname":"GEO GROUP INC (THE)"
+}, {
+"symbol":"GEOS",
+"Cname":"GEOSPACE TECHNOLOGIE"
+}, {
+"symbol":"GERN",
+"Cname":"GERON CORPORATION"
+}, {
+"symbol":"GES",
+"Cname":"GUESS INC."
+}, {
+"symbol":"GEVO",
+"Cname":"GEVO, INC. CMN STK"
+}, {
+"symbol":"GFI",
+"Cname":"GOLD FIELDS LIMITED"
+}, {
+"symbol":"GG",
+"Cname":"GOLDCORP INC"
+}, {
+"symbol":"GGAL",
+"Cname":"GRUPO FIN GALICIA"
+}, {
+"symbol":"GGB",
+"Cname":"GERDAU SA ADS"
+}, {
+"symbol":"GGP",
+"Cname":"GGP INC."
+}, {
+"symbol":"GIII",
+"Cname":"G-III APPAREL GP I"
+}, {
+"symbol":"GIL",
+"Cname":"GILDAN ACTIVEWEAR"
+}, {
+"symbol":"GILD",
+"Cname":"GILEAD SCIENCES, INC"
+}, {
+"symbol":"GIS",
+"Cname":"GEN MILLS INC"
+}, {
+"symbol":"GLD",
+"Cname":"SPDR GOLD SHARES"
+}, {
+"symbol":"GLNG",
+"Cname":"GOLAR LNG LTD"
+}, {
+"symbol":"GLOG",
+"Cname":"GASLOG LTD."
+}, {
+"symbol":"GLPI",
+"Cname":"GAMING & LEISURE"
+}, {
+"symbol":"GLUU",
+"Cname":"GLU MOBILE INC."
+}, {
+"symbol":"GLW",
+"Cname":"CORNING INC"
+}, {
+"symbol":"GM",
+"Cname":"GENERAL MOTORS CO"
+}, {
+"symbol":"GME",
+"Cname":"GAMESTOP CORP"
+}, {
+"symbol":"GMLP",
+"Cname":"GOLAR LNG PARTNERS"
+}, {
+"symbol":"GNC",
+"Cname":"GNC HOLDINGS"
+}, {
+"symbol":"GNE",
+"Cname":"GENIE ENERGY LTD."
+}, {
+"symbol":"GNRC",
+"Cname":"GENERAC HLDS INC"
+}, {
+"symbol":"GNTX",
+"Cname":"GENTEX CORP"
+}, {
+"symbol":"GNW",
+"Cname":"GENWORTH FINANCIAL"
+}, {
+"symbol":"GOGL",
+"Cname":"GOLDEN OCEAN GP CMN"
+}, {
+"symbol":"GOGO",
+"Cname":"GOGO INC CMN STK"
+}, {
+"symbol":"GOL",
+"Cname":"GOL LINHAS AEREAS IN"
+}, {
+"symbol":"GOLD",
+"Cname":"RANDGOLD RES LTD"
+}, {
+"symbol":"GOOG",
+"Cname":"ALPHABET CL C CAP"
+}, {
+"symbol":"GOOGL",
+"Cname":"ALPHABET CL A CMN"
+}, {
+"symbol":"GORO",
+"Cname":"GOLD RESOURCE CORP"
+}, {
+"symbol":"GOV",
+"Cname":"GOV PRP IN TR CM BN"
+}, {
+"symbol":"GPC",
+"Cname":"GENUINE PARTS CO"
+}, {
+"symbol":"GPK",
+"Cname":"GRAPHIC PACKAGING HO"
+}, {
+"symbol":"GPN",
+"Cname":"GLOBAL PAYMENTS INC"
+}, {
+"symbol":"GPOR",
+"Cname":"GULFPORT ENERGY CORP"
+}, {
+"symbol":"GPRE",
+"Cname":"GREEN PLAINS INC CMN"
+}, {
+"symbol":"GPRO",
+"Cname":"GOPRO INC CL A CMN"
+}, {
+"symbol":"GPS",
+"Cname":"GAP INC"
+}, {
+"symbol":"GRA",
+"Cname":"GRACE W R CO NEW"
+}, {
+"symbol":"GRFS",
+"Cname":"GRIFOLS, S.A."
+}, {
+"symbol":"GRMN",
+"Cname":"GARMIN LTD"
+}, {
+"symbol":"GRPN",
+"Cname":"GROUPON INC."
+}, {
+"symbol":"GRUB",
+"Cname":"GRUBHUB, INC."
+}, {
+"symbol":"GS",
+"Cname":"GOLDMAN SACHS GRP"
+}, {
+"symbol":"GSAT",
+"Cname":"Globalstar Inc"
+}, {
+"symbol":"GSK",
+"Cname":"GLAXOSMITHKLINE PLC"
+}, {
+"symbol":"GSM",
+"Cname":"FERROGLOBE PLC OS"
+}, {
+"symbol":"GST",
+"Cname":"GASTAR EXPL INC."
+}, {
+"symbol":"GSVC",
+"Cname":"GSV CAPITAL CP CMN"
+}, {
+"symbol":"GT",
+"Cname":"GOODYEAR TIRE RUBBER"
+}, {
+"symbol":"GTLS",
+"Cname":"CHART INDUSTRIES, IN"
+}, {
+"symbol":"GTN",
+"Cname":"GRAY TELEVISION INC"
+}, {
+"symbol":"GWPH",
+"Cname":"GW PHARMA ADR"
+}, {
+"symbol":"GWR",
+"Cname":"GENESEE"
+}, {
+"symbol":"GWW",
+"Cname":"GRAINGER W W INC"
+}, {
+"symbol":"H",
+"Cname":"HYATT HOTELS CORP"
+}, {
+"symbol":"HA",
+"Cname":"HAWAIIAN HLDGS INC"
+}, {
+"symbol":"HAIN",
+"Cname":"HAIN CELESTIAL GRP"
+}, {
+"symbol":"HAL",
+"Cname":"HALLIBURTON CO"
+}, {
+"symbol":"HALO",
+"Cname":"HALOZYME THERAPEUTIC"
+}, {
+"symbol":"HAS",
+"Cname":"HASBRO INC"
+}, {
+"symbol":"HASI",
+"Cname":"HANNON ARMSTRONG"
+}, {
+"symbol":"HAWK",
+"Cname":"BLACKHAWK NETWORK HO"
+}, {
+"symbol":"HBAN",
+"Cname":"HUNTINGTON BCSHS"
+}, {
+"symbol":"HBI",
+"Cname":"HANESBRANDS INC."
+}, {
+"symbol":"HCA",
+"Cname":"HCA HEALTHCARE, INC."
+}, {
+"symbol":"HCI",
+"Cname":"HCI GROUP, INC."
+}, {
+"symbol":"HCLP",
+"Cname":"HI-CRUSH PARTNERS LP"
+}, {
+"symbol":"HCP",
+"Cname":"HCP, INC."
+}, {
+"symbol":"HD",
+"Cname":"HOME DEPOT INC"
+}, {
+"symbol":"HDB",
+"Cname":"HDFC BANK LTD"
+}, {
+"symbol":"HDS",
+"Cname":"HD SUPPLY HLDS CMM"
+}, {
+"symbol":"HEES",
+"Cname":"H&E EQUIP SERVICES"
+}, {
+"symbol":"HES",
+"Cname":"HESS CP"
+}, {
+"symbol":"HFC",
+"Cname":"HOLLYFRONTIER CP"
+}, {
+"symbol":"HGT",
+"Cname":"HUGOTON ROYALTY TR"
+}, {
+"symbol":"HGV",
+"Cname":"HILTON GRAND VAC"
+}, {
+"symbol":"HIBB",
+"Cname":"HIBBETT SPORTS INC"
+}, {
+"symbol":"HIFR",
+"Cname":"INFRAREIT, INC."
+}, {
+"symbol":"HIG",
+"Cname":"HARTFORD FIN SVC"
+}, {
+"symbol":"HIIQ",
+"Cname":"HEALTH INSURANCE INN"
+}, {
+"symbol":"HIL",
+"Cname":"HILL INTERNATIONAL"
+}, {
+"symbol":"HIMX",
+"Cname":"HIMAX TECHNOLOGIES"
+}, {
+"symbol":"HL",
+"Cname":"HECLA MINING CO"
+}, {
+"symbol":"HLF",
+"Cname":"HERBALIFE LTD."
+}, {
+"symbol":"HLT",
+"Cname":"HILTON WW INC."
+}, {
+"symbol":"HLX",
+"Cname":"HELIX ENERGY SOLUTNS"
+}, {
+"symbol":"HMC",
+"Cname":"HONDA MOTOR CO ADR"
+}, {
+"symbol":"HMSY",
+"Cname":"HMS HLDGS CP"
+}, {
+"symbol":"HMY",
+"Cname":"HARMONY GOLD MINING"
+}, {
+"symbol":"HOG",
+"Cname":"HARLEY DAVIDSON"
+}, {
+"symbol":"HOLI",
+"Cname":"HOLLYSYS AUTOMATION"
+}, {
+"symbol":"HOLX",
+"Cname":"HOLOGIC, INC."
+}, {
+"symbol":"HON",
+"Cname":"HONEYWELL INTL INC"
+}, {
+"symbol":"HOS",
+"Cname":"HORNBECK OFFSHR SRVS"
+}, {
+"symbol":"HOV",
+"Cname":"HOVNANIAN ENT INC"
+}, {
+"symbol":"HP",
+"Cname":"HELMERICH PAYNE"
+}, {
+"symbol":"HPE",
+"Cname":"HEWLETT PACKARD ENT"
+}, {
+"symbol":"HPQ",
+"Cname":"HP Inc."
+}, {
+"symbol":"HPR",
+"Cname":"HIGHPOINT RESOURCES CORPORATION"
+}, {
+"symbol":"HPT",
+"Cname":"HOSPITALITY PROP CM"
+}, {
+"symbol":"HR",
+"Cname":"HEALTHCARE RLTY TR"
+}, {
+"symbol":"HRB",
+"Cname":"H R BLOCK INC"
+}, {
+"symbol":"HRI",
+"Cname":"Herc Holdings Inc."
+}, {
+"symbol":"HRL",
+"Cname":"HORMEL FOODS CP"
+}, {
+"symbol":"HRS",
+"Cname":"HARRIS CP"
+}, {
+"symbol":"HRTX",
+"Cname":"HERON THERAPEUTICS"
+}, {
+"symbol":"HSBC",
+"Cname":"HSBC HLDGS PLC ADS"
+}, {
+"symbol":"HST",
+"Cname":"HOST HOTELS & RESORT"
+}, {
+"symbol":"HSY",
+"Cname":"THE HERSHEY COMPANY"
+}, {
+"symbol":"HTH",
+"Cname":"HILLTOP HOLDINGS"
+}, {
+"symbol":"HTZ",
+"Cname":"HERTZ GLOBAL"
+}, {
+"symbol":"HUM",
+"Cname":"HUMANA INC"
+}, {
+"symbol":"HUN",
+"Cname":"HUNTSMAN CORPORATION"
+}, {
+"symbol":"HYG",
+"Cname":"ISHARES"
+}, {
+"symbol":"HYH",
+"Cname":"HALYARD HEALTH INC."
+}, {
+"symbol":"HZNP",
+"Cname":"HORIZON PHARMA ORD"
+}, {
+"symbol":"I",
+"Cname":"Intelsat S.A."
+}, {
+"symbol":"IAC",
+"Cname":"IAC/INTERACTIVE"
+}, {
+"symbol":"IAG",
+"Cname":"IAMGOLD CORPORATION"
+}, {
+"symbol":"IAU",
+"Cname":"ISHARES GOLD TRUST"
+}, {
+"symbol":"IBB",
+"Cname":"ISHARE NQ BIOTCH ETF"
+}, {
+"symbol":"IBKR",
+"Cname":"INTERACTIVE BROKERS"
+}, {
+"symbol":"IBM",
+"Cname":"INTL BUSINESS MACH"
+}, {
+"symbol":"IBN",
+"Cname":"ICICI BK LTD ADS"
+}, {
+"symbol":"ICE",
+"Cname":"INTERCONTINENTAL XCH"
+}, {
+"symbol":"ICON",
+"Cname":"ICONIX BRAND GROUP"
+}, {
+"symbol":"ICPT",
+"Cname":"INTERCEPT PHARMACEUT"
+}, {
+"symbol":"IDCC",
+"Cname":"INTERDIGITAL INC"
+}, {
+"symbol":"IDRA",
+"Cname":"IDERA PHARMACEUTICAL"
+}, {
+"symbol":"IDTI",
+"Cname":"INTEGRATED DEVICES"
+}, {
+"symbol":"IEF",
+"Cname":"ISHARES 7-10"
+}, {
+"symbol":"IEP",
+"Cname":"ICAHN ENTERPRISES"
+}, {
+"symbol":"IGT",
+"Cname":"INTERNATIONAL GAME T"
+}, {
+"symbol":"ILG",
+"Cname":"ILG, INC. CMN STK"
+}, {
+"symbol":"ILMN",
+"Cname":"ILLUMINA, INC."
+}, {
+"symbol":"IMAX",
+"Cname":"IMAX CORP"
+}, {
+"symbol":"IMDZ",
+"Cname":"IMMUNE DESIGN CS"
+}, {
+"symbol":"IMGN",
+"Cname":"IMMUNOGEN, INC."
+}, {
+"symbol":"IMH",
+"Cname":"IMPAC MTG HLDGS INC"
+}, {
+"symbol":"IMKTA",
+"Cname":"INGLES MARKETS INC"
+}, {
+"symbol":"IMMR",
+"Cname":"IMMERSION CORP"
+}, {
+"symbol":"IMMU",
+"Cname":"IMMUNOMEDICS, INC."
+}, {
+"symbol":"IMOS",
+"Cname":"CHIPMOS TECHN ADS"
+}, {
+"symbol":"IMPV",
+"Cname":"IMPERVA, INC CMN"
+}, {
+"symbol":"INCY",
+"Cname":"INCYTE CORPORATION"
+}, {
+"symbol":"INFI",
+"Cname":"INFINITY PHARMACEUTI"
+}, {
+"symbol":"INFN",
+"Cname":"INFINERA CORPORATION"
+}, {
+"symbol":"INFO",
+"Cname":"IHS MARKET LTD CMN"
+}, {
+"symbol":"INFY",
+"Cname":"INFOSYS LTD ADS"
+}, {
+"symbol":"ING",
+"Cname":"ING GROUP NV ADS"
+}, {
+"symbol":"INO",
+"Cname":"INOVIO PHARMA CMN"
+}, {
+"symbol":"INSG",
+"Cname":"INSEEGO CORP. CMN"
+}, {
+"symbol":"INSM",
+"Cname":"INSMED INC"
+}, {
+"symbol":"INSY",
+"Cname":"INSYS THERAPTCS CMN"
+}, {
+"symbol":"INTC",
+"Cname":"INTEL CORP"
+}, {
+"symbol":"INTU",
+"Cname":"INTUIT INC"
+}, {
+"symbol":"INTX",
+"Cname":"INTERSECTIONS, INC."
+}, {
+"symbol":"INVA",
+"Cname":"Innoviva, Inc."
+}, {
+"symbol":"INVE",
+"Cname":"IDENTIV, INC."
+}, {
+"symbol":"INXN",
+"Cname":"INTERXION HOLDING NV"
+}, {
+"symbol":"IONS",
+"Cname":"IONIS PHARMACEUTICAL"
+}, {
+"symbol":"IOVA",
+"Cname":"IOVANCE BIOTHERAPEUT"
+}, {
+"symbol":"IP",
+"Cname":"INTL PAPER"
+}, {
+"symbol":"IPG",
+"Cname":"INTERPUBLIC GROUP"
+}, {
+"symbol":"IPGP",
+"Cname":"IPG PHOTONICS CORP"
+}, {
+"symbol":"IPHI",
+"Cname":"INPHI CORPORATION"
+}, {
+"symbol":"IPI",
+"Cname":"INTREPID POTASH INC"
+}, {
+"symbol":"IPXL",
+"Cname":"IMPAX LABS INC"
+}, {
+"symbol":"IQV",
+"Cname":"IQVIA Holdings, Inc."
+}, {
+"symbol":"IR",
+"Cname":"INGERSOLL RAND LTD A"
+}, {
+"symbol":"IRBT",
+"Cname":"IROBOT CORPORATION"
+}, {
+"symbol":"IRDM",
+"Cname":"IRIDIUM COMM INC"
+}, {
+"symbol":"IRM",
+"Cname":"IRON MOUNTAIN (DEL)"
+}, {
+"symbol":"IRWD",
+"Cname":"IRONWOOD PHARMACEUTI"
+}, {
+"symbol":"ISRG",
+"Cname":"INTUITIVE SURG, INC."
+}, {
+"symbol":"ITB",
+"Cname":"ISHARES  US HCIF"
+}, {
+"symbol":"ITUB",
+"Cname":"ITAU UNIBANCO ADS"
+}, {
+"symbol":"ITW",
+"Cname":"ILL TOOL WORKS INC"
+}, {
+"symbol":"IVR",
+"Cname":"INVESCO MORTGAGE INC"
+}, {
+"symbol":"IVZ",
+"Cname":"INVESCO LTD"
+}, {
+"symbol":"IWC",
+"Cname":"iShares Microcap ETF"
+}, {
+"symbol":"IWM",
+"Cname":"ISHARE RUS 2000 ETF"
+}, {
+"symbol":"IWN",
+"Cname":"ISHARE RUS 2000 VALU"
+}, {
+"symbol":"IWO",
+"Cname":"ISHARES RUSSELL 2000"
+}, {
+"symbol":"IYR",
+"Cname":"ISHARE"
+}, {
+"symbol":"IYT",
+"Cname":"ISHARES TRANS AVG"
+}, {
+"symbol":"JACK",
+"Cname":"JACK IN THE BOX INC"
+}, {
+"symbol":"JAKK",
+"Cname":"JAKKS PACIFIC INC"
+}, {
+"symbol":"JASO",
+"Cname":"JA SOLAR HOLDINGS"
+}, {
+"symbol":"JAZZ",
+"Cname":"JAZZ PHARMA PLC"
+}, {
+"symbol":"JBHT",
+"Cname":"J B HUNT TRANSPORT"
+}, {
+"symbol":"JBL",
+"Cname":"JABIL INC."
+}, {
+"symbol":"JBLU",
+"Cname":"JETBLUE AIRWAYS CP"
+}, {
+"symbol":"JCI",
+"Cname":"JOHNSON CONTROLS INT"
+}, {
+"symbol":"JCP",
+"Cname":"PENNEY J C CO HOLDIN"
+}, {
+"symbol":"JD",
+"Cname":"JD.COM, INC. ADS"
+}, {
+"symbol":"JE",
+"Cname":"JUST ENERGY GROUP"
+}, {
+"symbol":"JEC",
+"Cname":"JACOBS ENGINEERNG GP"
+}, {
+"symbol":"JKS",
+"Cname":"JINKOSOLAR HOLDING C"
+}, {
+"symbol":"JMBA",
+"Cname":"JAMBA, INC. CMN STK"
+}, {
+"symbol":"JMEI",
+"Cname":"JUMEI INTL ADR"
+}, {
+"symbol":"JNJ",
+"Cname":"JOHNSON AND JOHNS DC"
+}, {
+"symbol":"JNK",
+"Cname":"SPDR BB BR HY TIPS"
+}, {
+"symbol":"JNPR",
+"Cname":"JUNIPER NETWORKS"
+}, {
+"symbol":"JOE",
+"Cname":"ST JOE CO (THE)"
+}, {
+"symbol":"JONE",
+"Cname":"Jones Energy, Inc."
+}, {
+"symbol":"JPM",
+"Cname":"JP MORGAN CHASE CO"
+}, {
+"symbol":"JRJC",
+"Cname":"CHINA FINANCE ONLINE"
+}, {
+"symbol":"JWN",
+"Cname":"NORDSTROM INC"
+}, {
+"symbol":"K",
+"Cname":"KELLOGG CO"
+}, {
+"symbol":"KANG",
+"Cname":"IKANG HEALTHCARE ADR"
+}, {
+"symbol":"KAR",
+"Cname":"KAR AUCTION SERVICES"
+}, {
+"symbol":"KBE",
+"Cname":"SPDR S&P BANK ETF"
+}, {
+"symbol":"KBH",
+"Cname":"KB HOME"
+}, {
+"symbol":"KBR",
+"Cname":"KBR INC"
+}, {
+"symbol":"KEM",
+"Cname":"KEMET CORP NEW"
+}, {
+"symbol":"KERX",
+"Cname":"KERYX BIOPHARM INC"
+}, {
+"symbol":"KEX",
+"Cname":"KIRBY CORPORATION"
+}, {
+"symbol":"KEY",
+"Cname":"KEYCORP"
+}, {
+"symbol":"KEYW",
+"Cname":"KEYW HOLDING CORP"
+}, {
+"symbol":"KGC",
+"Cname":"KINROSS GOLD CP"
+}, {
+"symbol":"KHC",
+"Cname":"KRAFT HEINZ CO CMN"
+}, {
+"symbol":"KIM",
+"Cname":"KIMCO REALTY CP"
+}, {
+"symbol":"KKR",
+"Cname":"KKR & CO. L.P."
+}, {
+"symbol":"KLAC",
+"Cname":"K L A-TENCOR CORP"
+}, {
+"symbol":"KLIC",
+"Cname":"KULICKE AND SOFFA"
+}, {
+"symbol":"KLXI",
+"Cname":"KLX INC."
+}, {
+"symbol":"KMB",
+"Cname":"KIMBERLY CLARK CP"
+}, {
+"symbol":"KMI",
+"Cname":"KINDER MORGAN, INC"
+}, {
+"symbol":"KMX",
+"Cname":"CARMAX INC"
+}, {
+"symbol":"KN",
+"Cname":"KNOWLES CORP."
+}, {
+"symbol":"KND",
+"Cname":"KINDRED HEALTHCARE"
+}, {
+"symbol":"KNDI",
+"Cname":"KANDI TECHS GRP CMN"
+}, {
+"symbol":"KNX",
+"Cname":"KNIGHT-SWIFT TRANSPO"
+}, {
+"symbol":"KO",
+"Cname":"COCA COLA CO THE"
+}, {
+"symbol":"KODK",
+"Cname":"EASTMAN KODAK"
+}, {
+"symbol":"KORS",
+"Cname":"MICHAEL KORS HLD LTD"
+}, {
+"symbol":"KOS",
+"Cname":"KOSMOS ENERGY LTD."
+}, {
+"symbol":"KPTI",
+"Cname":"KARYOPHARM THERAPEUT"
+}, {
+"symbol":"KR",
+"Cname":"KROGER CO"
+}, {
+"symbol":"KRE",
+"Cname":"SPDR S&P REGIONAL BA"
+}, {
+"symbol":"KS",
+"Cname":"KAPSTONE PAPER"
+}, {
+"symbol":"KSS",
+"Cname":"KOHLS CP"
+}, {
+"symbol":"KSU",
+"Cname":"KANSAS CITY SOUTHERN"
+}, {
+"symbol":"KTOS",
+"Cname":"KRATOS DEFNS"
+}, {
+"symbol":"LAD",
+"Cname":"LITHIA MOTORS INC"
+}, {
+"symbol":"LAMR",
+"Cname":"LAMAR ADVERTIS A"
+}, {
+"symbol":"LAZ",
+"Cname":"LAZARD LTD."
+}, {
+"symbol":"LB",
+"Cname":"L BRANDS, INC"
+}, {
+"symbol":"LBTYA",
+"Cname":"LIBERTY GLOBAL ORD A"
+}, {
+"symbol":"LBTYK",
+"Cname":"LIBERTY GLOBAL ORD C"
+}, {
+"symbol":"LC",
+"Cname":"LENDINGCLUB CORP"
+}, {
+"symbol":"LCI",
+"Cname":"Lannett Company Inc"
+}, {
+"symbol":"LDOS",
+"Cname":"LEIDOS HLDGS, INC."
+}, {
+"symbol":"LEA",
+"Cname":"LEAR CORPORATION"
+}, {
+"symbol":"LEG",
+"Cname":"LEGGETT PLATT INC"
+}, {
+"symbol":"LEN",
+"Cname":"LENNAR CP CL A"
+}, {
+"symbol":"LFC",
+"Cname":"CHINA LIFE INS CO"
+}, {
+"symbol":"LFGR",
+"Cname":"LEAF GROUP LTD."
+}, {
+"symbol":"LGCY",
+"Cname":"LEGACY RESERVES LP"
+}, {
+"symbol":"LGF.A",
+"Cname":"LIONS GATE CL A VTG"
+}, {
+"symbol":"LGF.B",
+"Cname":"LIONS GATE CLASS B"
+}, {
+"symbol":"LGND",
+"Cname":"LIGAND PHARM CMN"
+}, {
+"symbol":"LH",
+"Cname":"LABORATORY CORP NEW"
+}, {
+"symbol":"LILA",
+"Cname":"LIBERTY LILAC CL A"
+}, {
+"symbol":"LITB",
+"Cname":"LIGHTINTHEBOX ADR"
+}, {
+"symbol":"LITE",
+"Cname":"LUMENTUM HLD CM"
+}, {
+"symbol":"LJPC",
+"Cname":"LA JOLLA PHARMA"
+}, {
+"symbol":"LKM",
+"Cname":"Link Motion Inc."
+}, {
+"symbol":"LKQ",
+"Cname":"LKQ CORP"
+}, {
+"symbol":"LL",
+"Cname":"LUMBER LIQUID HLDGS"
+}, {
+"symbol":"LLL",
+"Cname":"L3 TECHNGIES INC."
+}, {
+"symbol":"LLNW",
+"Cname":"LIMELIGHT NETWORKS,"
+}, {
+"symbol":"LLY",
+"Cname":"LILLY ELI CO"
+}, {
+"symbol":"LM",
+"Cname":"LEGG MASON INC"
+}, {
+"symbol":"LMT",
+"Cname":"LOCKHEED MARTIN CP"
+}, {
+"symbol":"LN",
+"Cname":"LINE CORP ADS"
+}, {
+"symbol":"LNC",
+"Cname":"LINCOLN NATL CP"
+}, {
+"symbol":"LNG",
+"Cname":"CHENIERE ENERGY INC"
+}, {
+"symbol":"LOCO",
+"Cname":"EL POLLO LOCO CMN"
+}, {
+"symbol":"LOGI",
+"Cname":"LOGITECH INT SA"
+}, {
+"symbol":"LOGM",
+"Cname":"LOGMEIN, INC."
+}, {
+"symbol":"LOW",
+"Cname":"LOWES COMPANIES"
+}, {
+"symbol":"LPI",
+"Cname":"LAREDO PETROLEUM INC"
+}, {
+"symbol":"LPX",
+"Cname":"LOUISIANA PACIFIC CP"
+}, {
+"symbol":"LQ",
+"Cname":"LA QUINTA HOLDINGS"
+}, {
+"symbol":"LQD",
+"Cname":"ISHARES"
+}, {
+"symbol":"LQDT",
+"Cname":"LIQUIDITY SERVICES"
+}, {
+"symbol":"LRCX",
+"Cname":"LAM RESEARCH CORP"
+}, {
+"symbol":"LUK",
+"Cname":"LEUCADIA NATL CP"
+}, {
+"symbol":"LULU",
+"Cname":"LULULEMON ATHLETICA"
+}, {
+"symbol":"LUV",
+"Cname":"SOUTHWEST AIRLINES"
+}, {
+"symbol":"LVS",
+"Cname":"LAS VEGAS SANDS CORP"
+}, {
+"symbol":"LYB",
+"Cname":"LYONDELLBASELL"
+}, {
+"symbol":"LYG",
+"Cname":"LLOYDS BNKG GP ADS"
+}, {
+"symbol":"LYV",
+"Cname":"LIVE NATION ENTMNT"
+}, {
+"symbol":"LZB",
+"Cname":"LA Z BOY INC"
+}, {
+"symbol":"M",
+"Cname":"MACY'S INC"
+}, {
+"symbol":"MA",
+"Cname":"MASTERCARD INC"
+}, {
+"symbol":"MAC",
+"Cname":"MACERICH CO"
+}, {
+"symbol":"MACK",
+"Cname":"MERRIMACK PHARMA CMN"
+}, {
+"symbol":"MAN",
+"Cname":"MANPOWERGROUP"
+}, {
+"symbol":"MANH",
+"Cname":"MANHATTAN ASSOC"
+}, {
+"symbol":"MAR",
+"Cname":"MARRIOT INT CL A CMN"
+}, {
+"symbol":"MAS",
+"Cname":"MASCO CP"
+}, {
+"symbol":"MAT",
+"Cname":"MATTEL INC"
+}, {
+"symbol":"MBI",
+"Cname":"M B I A INC"
+}, {
+"symbol":"MBT",
+"Cname":"MOBILE TELSYS PJSC"
+}, {
+"symbol":"MCD",
+"Cname":"MCDONALDS CP"
+}, {
+"symbol":"MCEP",
+"Cname":"MID-CON ENERGY PARTN"
+}, {
+"symbol":"MCF",
+"Cname":"CONTANGO OIL & GAS"
+}, {
+"symbol":"MCHI",
+"Cname":"ISHARES MSCI CHINA E"
+}, {
+"symbol":"MCHP",
+"Cname":"MICROCHIP TECHNOLOGY"
+}, {
+"symbol":"MCK",
+"Cname":"MCKESSON CORP"
+}, {
+"symbol":"MCO",
+"Cname":"MOODY'S CORP"
+}, {
+"symbol":"MCRB",
+"Cname":"SERES THERAPTC CMN"
+}, {
+"symbol":"MDC",
+"Cname":"M D C HOLDINGS"
+}, {
+"symbol":"MDCO",
+"Cname":"MEDICINES CO (THE)"
+}, {
+"symbol":"MDLZ",
+"Cname":"MONDELEZ INTL CMN A"
+}, {
+"symbol":"MDP",
+"Cname":"MEREDITH CP"
+}, {
+"symbol":"MDR",
+"Cname":"MCDERMOTT INT PANAMA"
+}, {
+"symbol":"MDRX",
+"Cname":"ALLSCRIPTS HLTHCARE"
+}, {
+"symbol":"MDSO",
+"Cname":"MEDIDATA SOLUTIONS,"
+}, {
+"symbol":"MDT",
+"Cname":"MEDTRONIC PLC"
+}, {
+"symbol":"MDXG",
+"Cname":"MIMEDX GROUP INC"
+}, {
+"symbol":"MDY",
+"Cname":"SPDR S&P MIDCAP 400"
+}, {
+"symbol":"MED",
+"Cname":"MEDIFAST INC"
+}, {
+"symbol":"MEI",
+"Cname":"METHODE ELECTR"
+}, {
+"symbol":"MELI",
+"Cname":"MERCADOLIBRE, INC."
+}, {
+"symbol":"MEOH",
+"Cname":"METHANEX CP"
+}, {
+"symbol":"MET",
+"Cname":"METLIFE INC"
+}, {
+"symbol":"MFC",
+"Cname":"MANULIFE FIN CORP"
+}, {
+"symbol":"MFIN",
+"Cname":"MEDALLION FIN CP"
+}, {
+"symbol":"MGA",
+"Cname":"MAGNA INTL INC"
+}, {
+"symbol":"MGI",
+"Cname":"MONEYGRAM INTL CMN"
+}, {
+"symbol":"MGM",
+"Cname":"MGM RESORTS INTL"
+}, {
+"symbol":"MHK",
+"Cname":"MOHAWK INDS INC"
+}, {
+"symbol":"MHLD",
+"Cname":"MAIDEN HOLDINGS LTD"
+}, {
+"symbol":"MIC",
+"Cname":"MACQUARIE INFRASTRUC"
+}, {
+"symbol":"MIK",
+"Cname":"THE MICHAELS COMP CM"
+}, {
+"symbol":"MKC",
+"Cname":"MCCORMICK & CO"
+}, {
+"symbol":"MLCO",
+"Cname":"MELCO RESORTS & ENT"
+}, {
+"symbol":"MLM",
+"Cname":"MARTIN MARIETTA MTRL"
+}, {
+"symbol":"MLNT",
+"Cname":"MELINTA THERAPEUTICS"
+}, {
+"symbol":"MLNX",
+"Cname":"MELLANOX TECHNOLOGIE"
+}, {
+"symbol":"MMC",
+"Cname":"MARSH MCLENNAN CO"
+}, {
+"symbol":"MMLP",
+"Cname":"MARTIN MIDSTRM LP"
+}, {
+"symbol":"MMM",
+"Cname":"3M COMPANY"
+}, {
+"symbol":"MMP",
+"Cname":"MAGELLAN MIDSTREAM"
+}, {
+"symbol":"MNK",
+"Cname":"MALLINCKRODT PLC"
+}, {
+"symbol":"MNKD",
+"Cname":"MANNKIND CORPORATION"
+}, {
+"symbol":"MNST",
+"Cname":"MONSTER BEVERAGE CP"
+}, {
+"symbol":"MNTA",
+"Cname":"MOMENTA PHARMA"
+}, {
+"symbol":"MO",
+"Cname":"ALTRIA GROUP INC"
+}, {
+"symbol":"MOBL",
+"Cname":"MOBILEIRON INC CM"
+}, {
+"symbol":"MODN",
+"Cname":"MODEL N, INC."
+}, {
+"symbol":"MOH",
+"Cname":"MOLINA HEALTHCARE"
+}, {
+"symbol":"MOMO",
+"Cname":"MOMO INC. ADS"
+}, {
+"symbol":"MON",
+"Cname":"MONSANTO COMPANY"
+}, {
+"symbol":"MOS",
+"Cname":"MOSAIC COMPANY NEW"
+}, {
+"symbol":"MPC",
+"Cname":"MARATHON PETROLEUM"
+}, {
+"symbol":"MPLX",
+"Cname":"MPLX LP"
+}, {
+"symbol":"MPW",
+"Cname":"MEDICL PROP TRST, IN"
+}, {
+"symbol":"MPWR",
+"Cname":"MONOLITHIC POWER SYS"
+}, {
+"symbol":"MRC",
+"Cname":"MRC GLOBAL INC."
+}, {
+"symbol":"MRK",
+"Cname":"MERCK CO INC"
+}, {
+"symbol":"MRO",
+"Cname":"MARATHON OIL CORP"
+}, {
+"symbol":"MRVL",
+"Cname":"MARVELL TECH GROUP"
+}, {
+"symbol":"MS",
+"Cname":"MORGAN STANLEY"
+}, {
+"symbol":"MSB",
+"Cname":"MESABI TRUST CTF BI"
+}, {
+"symbol":"MSFT",
+"Cname":"MICROSOFT CORP"
+}, {
+"symbol":"MSGN",
+"Cname":"MSG NETWORKS INC."
+}, {
+"symbol":"MSI",
+"Cname":"MOTOROLA SOLUTIONS"
+}, {
+"symbol":"MSTR",
+"Cname":"MICROSTRATEGY CL A"
+}, {
+"symbol":"MT",
+"Cname":"ARCELOR MITTAL NEW"
+}, {
+"symbol":"MTB",
+"Cname":"M&T BANK CORP"
+}, {
+"symbol":"MTCH",
+"Cname":"MATCH GROUP, INC. CS"
+}, {
+"symbol":"MTDR",
+"Cname":"MATADOR RESOURCES CO"
+}, {
+"symbol":"MTG",
+"Cname":"M G I C INVEST CP"
+}, {
+"symbol":"MTGE",
+"Cname":"MTGE INVT CORP."
+}, {
+"symbol":"MTH",
+"Cname":"MERITAGE HOMES CORP"
+}, {
+"symbol":"MTN",
+"Cname":"VAIL RESORTS INC"
+}, {
+"symbol":"MTOR",
+"Cname":"MERITOR INC"
+}, {
+"symbol":"MTW",
+"Cname":"MANITOWOC CO INC"
+}, {
+"symbol":"MTZ",
+"Cname":"MASTEC INC."
+}, {
+"symbol":"MU",
+"Cname":"MICRON TECHNOLOGY"
+}, {
+"symbol":"MUB",
+"Cname":"ISHARES NATIONAL MUN"
+}, {
+"symbol":"MUR",
+"Cname":"MURPHY OIL CP HLDG"
+}, {
+"symbol":"MUX",
+"Cname":"MCEWEN MINING INC."
+}, {
+"symbol":"MVIS",
+"Cname":"MICROVISION"
+}, {
+"symbol":"MX",
+"Cname":"MAGNACHIP SEMICONDUC"
+}, {
+"symbol":"MXIM",
+"Cname":"MAXIM INTEGRATED"
+}, {
+"symbol":"MXL",
+"Cname":"MAXLINEAR, INC"
+}, {
+"symbol":"MXWL",
+"Cname":"MAXWELL TECHNOLOGIES"
+}, {
+"symbol":"MYGN",
+"Cname":"MYRIAD GENETICS, INC"
+}, {
+"symbol":"MYL",
+"Cname":"MYLAN NV ORD SHS"
+}, {
+"symbol":"MZOR",
+"Cname":"MAZOR ROBOTICS ADS"
+}, {
+"symbol":"NAT",
+"Cname":"NORDIC AMRN TANKERS"
+}, {
+"symbol":"NAV",
+"Cname":"NAVISTAR INTL CP"
+}, {
+"symbol":"NAVB",
+"Cname":"NAVIDEA BIOPHAR INC"
+}, {
+"symbol":"NAVI",
+"Cname":"NAVIENT CP CMN"
+}, {
+"symbol":"NBIX",
+"Cname":"NEUROCRINE BIOSCIENC"
+}, {
+"symbol":"NBL",
+"Cname":"NOBLE ENERGY INC"
+}, {
+"symbol":"NBR",
+"Cname":"NABORS INDS LTD NEW"
+}, {
+"symbol":"NCLH",
+"Cname":"NORWEGIAN CRUISE ORD"
+}, {
+"symbol":"NCMI",
+"Cname":"NATIONAL CINEMEDIA"
+}, {
+"symbol":"NCR",
+"Cname":"NCR CP"
+}, {
+"symbol":"NDAQ",
+"Cname":"NASDAQ, INC. CMN STK"
+}, {
+"symbol":"NDLS",
+"Cname":"NOODLES & CO CLA CMN"
+}, {
+"symbol":"NE",
+"Cname":"NOBLE CORPORATION"
+}, {
+"symbol":"NEE",
+"Cname":"NEXTERA ENERGY, INC."
+}, {
+"symbol":"NEM",
+"Cname":"NEWMONT MINING CORP"
+}, {
+"symbol":"NEON",
+"Cname":"Neonode Inc."
+}, {
+"symbol":"NEPT",
+"Cname":"NEPTUNE TECH"
+}, {
+"symbol":"NFG",
+"Cname":"NATL FUEL GAS CO"
+}, {
+"symbol":"NFLX",
+"Cname":"NETFLIX, INC."
+}, {
+"symbol":"NFX",
+"Cname":"NEWFIELD EXP COM"
+}, {
+"symbol":"NG",
+"Cname":"NOVAGOLD RESOURCES I"
+}, {
+"symbol":"NGD",
+"Cname":"NEW GOLD INC"
+}, {
+"symbol":"NGG",
+"Cname":"NATIONAL GRID PLC"
+}, {
+"symbol":"NGL",
+"Cname":"NGL ENERGY PARTNERS"
+}, {
+"symbol":"NHTC",
+"Cname":"NATURAL HLTH TRD CM"
+}, {
+"symbol":"NI",
+"Cname":"NISOURCE INC HLDG CO"
+}, {
+"symbol":"NKE",
+"Cname":"NIKE INC CL B"
+}, {
+"symbol":"NKTR",
+"Cname":"NEKTAR THERAPEUTICS"
+}, {
+"symbol":"NLNK",
+"Cname":"NEWLINK GENETICS COR"
+}, {
+"symbol":"NLS",
+"Cname":"NAUTILUS INC"
+}, {
+"symbol":"NLSN",
+"Cname":"NIELSEN NV ORD SHS"
+}, {
+"symbol":"NLY",
+"Cname":"ANNALY CAPITAL MANAG"
+}, {
+"symbol":"NM",
+"Cname":"NAVIOS MARITIME"
+}, {
+"symbol":"NMM",
+"Cname":"NAVIOS MARITIME PTN"
+}, {
+"symbol":"NNN",
+"Cname":"NATIONAL RETAIL PROP"
+}, {
+"symbol":"NOAH",
+"Cname":"NOAH HOLDINGS LTD"
+}, {
+"symbol":"NOC",
+"Cname":"NORTHROP GRUM HOL CO"
+}, {
+"symbol":"NOG",
+"Cname":"NORTHERN OIL AND GAS"
+}, {
+"symbol":"NOK",
+"Cname":"NOKIA CP ADS"
+}, {
+"symbol":"NOV",
+"Cname":"NATL OILWELL VARCO"
+}, {
+"symbol":"NOW",
+"Cname":"SERVICENOW, INC."
+}, {
+"symbol":"NPTN",
+"Cname":"NEOPHOTONIC CORP"
+}, {
+"symbol":"NRG",
+"Cname":"NRG ENERGY INC"
+}, {
+"symbol":"NRP",
+"Cname":"NATURAL RES PTNRS LP"
+}, {
+"symbol":"NRZ",
+"Cname":"NEW RESIDENTIAL INVT"
+}, {
+"symbol":"NS",
+"Cname":"NUSTAR ENERGY L.P."
+}, {
+"symbol":"NSC",
+"Cname":"NORFOLK SOUTHERN CP"
+}, {
+"symbol":"NSH",
+"Cname":"NUSTAR GP HGS UTS"
+}, {
+"symbol":"NSM",
+"Cname":"NATIONSTAR MORTGAGE"
+}, {
+"symbol":"NTAP",
+"Cname":"NETAPP, INC."
+}, {
+"symbol":"NTCT",
+"Cname":"NETSCOUT SYSTEMS I"
+}, {
+"symbol":"NTES",
+"Cname":"NETEASE INC ADS"
+}, {
+"symbol":"NTGR",
+"Cname":"NETGEAR INC"
+}, {
+"symbol":"NTNX",
+"Cname":"NUTANIX CL A CM"
+}, {
+"symbol":"NTP",
+"Cname":"NAM TAI PROPERTY"
+}, {
+"symbol":"NTR",
+"Cname":"Nutrien Ltd."
+}, {
+"symbol":"NTRI",
+"Cname":"NUTRISYSTEM INC"
+}, {
+"symbol":"NTRS",
+"Cname":"NORTHERN TRUST CORP"
+}, {
+"symbol":"NUAN",
+"Cname":"NUANCE COMMUNICATNS"
+}, {
+"symbol":"NUE",
+"Cname":"NUCOR CP"
+}, {
+"symbol":"NUGT",
+"Cname":"DXN DLY GLDMNR NDX 3"
+}, {
+"symbol":"NUS",
+"Cname":"NU SKIN ENT INC"
+}, {
+"symbol":"NUVA",
+"Cname":"NUVASIVE, INC."
+}, {
+"symbol":"NVAX",
+"Cname":"NOVAVAX, INC."
+}, {
+"symbol":"NVDA",
+"Cname":"NVIDIA CORPORATION"
+}, {
+"symbol":"NVGS",
+"Cname":"NAVIGATOR HOLDINGS"
+}, {
+"symbol":"NVO",
+"Cname":"NOVO NORDISK A S"
+}, {
+"symbol":"NVS",
+"Cname":"NOVARTIS AG ADS"
+}, {
+"symbol":"NWL",
+"Cname":"NEWELL BRANDS INC."
+}, {
+"symbol":"NWPX",
+"Cname":"NORTHWEST PIPE CO"
+}, {
+"symbol":"NWSA",
+"Cname":"NEWS CP CL A CMN ST"
+}, {
+"symbol":"NXPI",
+"Cname":"NXP SEMICONDUCTORS"
+}, {
+"symbol":"NXST",
+"Cname":"NEXSTAR MEDIA CM A"
+}, {
+"symbol":"NXTM",
+"Cname":"NXSTAGE MEDICAL, INC"
+}, {
+"symbol":"NYCB",
+"Cname":"NEW YORK CMMTY BNC"
+}, {
+"symbol":"NYMT",
+"Cname":"NEW YORK MTGE TRUST"
+}, {
+"symbol":"O",
+"Cname":"REALTY INCOME CP"
+}, {
+"symbol":"OA",
+"Cname":"Orbital ATK, Inc."
+}, {
+"symbol":"OAK",
+"Cname":"OAKTREE CAPITAL"
+}, {
+"symbol":"OAS",
+"Cname":"Oasis Petroleum Inc."
+}, {
+"symbol":"OBE",
+"Cname":"Obsidian Energy Ltd."
+}, {
+"symbol":"OC",
+"Cname":"OWENS CORNING"
+}, {
+"symbol":"OCLR",
+"Cname":"OCLARO, INC"
+}, {
+"symbol":"OCN",
+"Cname":"OCWEN FINL CORP"
+}, {
+"symbol":"OCSL",
+"Cname":"OAKTREE SPECIALTY"
+}, {
+"symbol":"ODFL",
+"Cname":"OLD DOMINION FREIG"
+}, {
+"symbol":"ODP",
+"Cname":"OFFICE DEPOT CMN"
+}, {
+"symbol":"OFG",
+"Cname":"OFG BANCORP"
+}, {
+"symbol":"OFIX",
+"Cname":"ORTHOFIX INTL NV"
+}, {
+"symbol":"OHI",
+"Cname":"OMEGA HEALTHCARE INV"
+}, {
+"symbol":"OHRP",
+"Cname":"OHR PHARMCEUTIAL CM"
+}, {
+"symbol":"OI",
+"Cname":"OWENS ILLINOIS"
+}, {
+"symbol":"OIH",
+"Cname":"VANECK VECTORS OIL"
+}, {
+"symbol":"OII",
+"Cname":"OCEANEERING INTL INC"
+}, {
+"symbol":"OILD",
+"Cname":"PROSHARES ULTRAPRO 3"
+}, {
+"symbol":"OIS",
+"Cname":"OIL STATES INTL INC"
+}, {
+"symbol":"OKE",
+"Cname":"ONEOK INC        NEW"
+}, {
+"symbol":"OLED",
+"Cname":"UNIVERSAL DISPLAY"
+}, {
+"symbol":"OLN",
+"Cname":"OLIN CP"
+}, {
+"symbol":"OMC",
+"Cname":"OMNICOM GP INC"
+}, {
+"symbol":"OMER",
+"Cname":"Omeros Corporation"
+}, {
+"symbol":"OMF",
+"Cname":"ONEMAIN HOLDINGS INC"
+}, {
+"symbol":"ON",
+"Cname":"ON SEMICONDUCTOR"
+}, {
+"symbol":"ONCE",
+"Cname":"SPARK THERAP CMN"
+}, {
+"symbol":"ONDK",
+"Cname":"ON DECK CAPITAL, INC"
+}, {
+"symbol":"ONVO",
+"Cname":"ORGANOVO HLDGS CMN"
+}, {
+"symbol":"OPHT",
+"Cname":"OPHTHOTECH CORP CMN"
+}, {
+"symbol":"OPK",
+"Cname":"OPKO HEALTH INC"
+}, {
+"symbol":"ORCL",
+"Cname":"ORACLE CORPORATION"
+}, {
+"symbol":"ORLY",
+"Cname":"O'REILLY AUTOMOTIVE"
+}, {
+"symbol":"OSIS",
+"Cname":"O S I SYSTEMS INC"
+}, {
+"symbol":"OSK",
+"Cname":"OSHKOSH CP"
+}, {
+"symbol":"OSTK",
+"Cname":"OVERSTOCK.COM, INC."
+}, {
+"symbol":"OSUR",
+"Cname":"ORASURE TECH INC"
+}, {
+"symbol":"OTEX",
+"Cname":"OPEN TEXT CP"
+}, {
+"symbol":"OUT",
+"Cname":"OUTFRONT MEDIA INC."
+}, {
+"symbol":"OVAS",
+"Cname":"OVASCIENCE CMN STK"
+}, {
+"symbol":"OXY",
+"Cname":"OCCIDENTAL PET"
+}, {
+"symbol":"OZM",
+"Cname":"OCH-ZIFF CAP MGMT"
+}, {
+"symbol":"OZRK",
+"Cname":"BANK OF THE OZARK"
+}, {
+"symbol":"P",
+"Cname":"PANDORA MEDIA, INC."
+}, {
+"symbol":"PAA",
+"Cname":"PLAINS ALL AMER LP"
+}, {
+"symbol":"PAAS",
+"Cname":"PAN AMER SILVER CORP"
+}, {
+"symbol":"PACB",
+"Cname":"PACIFIC BIOSCIENCES"
+}, {
+"symbol":"PAGP",
+"Cname":"PLAINS GP HLDHS LP"
+}, {
+"symbol":"PAH",
+"Cname":"PLATFORM SPECIALTY"
+}, {
+"symbol":"PANW",
+"Cname":"Palo Alto Networks"
+}, {
+"symbol":"PAY",
+"Cname":"VERIFONE SYSTEMS INC"
+}, {
+"symbol":"PAYX",
+"Cname":"PAYCHEX, INC."
+}, {
+"symbol":"PBCT",
+"Cname":"PEOPLE'S UNITED FINL"
+}, {
+"symbol":"PBF",
+"Cname":"PBF ENERGY INC."
+}, {
+"symbol":"PBI",
+"Cname":"PITNEY BOWES INC"
+}, {
+"symbol":"PBPB",
+"Cname":"POTBELLY CORP CMN"
+}, {
+"symbol":"PBR",
+"Cname":"PETROLEO BRASILEIRO"
+}, {
+"symbol":"PBYI",
+"Cname":"PUMA BIOTCHNGY CM"
+}, {
+"symbol":"PCAR",
+"Cname":"PACCAR INC."
+}, {
+"symbol":"PCG",
+"Cname":"PG&E CP"
+}, {
+"symbol":"PCRX",
+"Cname":"PACIRA PHARM INC"
+}, {
+"symbol":"PDCE",
+"Cname":"PDC ENERGY, INC."
+}, {
+"symbol":"PDCO",
+"Cname":"PATTERSON COMPANIES"
+}, {
+"symbol":"PDLI",
+"Cname":"PDL BIOPHARMA INC"
+}, {
+"symbol":"PDS",
+"Cname":"PRECISION DRILL CORP"
+}, {
+"symbol":"PE",
+"Cname":"PARSLEY ENERGY CL A"
+}, {
+"symbol":"PEG",
+"Cname":"PUB ENTRPR GP"
+}, {
+"symbol":"PEGI",
+"Cname":"PATTERN ENERGY CL A"
+}, {
+"symbol":"PEI",
+"Cname":"PENN REAL ESTATE TR"
+}, {
+"symbol":"PEIX",
+"Cname":"PACIFIC ETHANOL INC"
+}, {
+"symbol":"PENN",
+"Cname":"PENN NATL GAMING INC"
+}, {
+"symbol":"PEP",
+"Cname":"PEPSICO INC"
+}, {
+"symbol":"PER",
+"Cname":"SANDRIDGE PERMIAN TR"
+}, {
+"symbol":"PERI",
+"Cname":"PERION NETWORK LTD."
+}, {
+"symbol":"PERY",
+"Cname":"PERRY ELLIS INT"
+}, {
+"symbol":"PES",
+"Cname":"PIONEER ENERGY SVCS"
+}, {
+"symbol":"PF",
+"Cname":"PINNACLE FOODS, INC."
+}, {
+"symbol":"PFE",
+"Cname":"PFIZER INC"
+}, {
+"symbol":"PFG",
+"Cname":"PRINCIPAL FINL GROUP"
+}, {
+"symbol":"PFPT",
+"Cname":"PROOFPOINT, INC."
+}, {
+"symbol":"PG",
+"Cname":"PROCTER   GAMBLE CO"
+}, {
+"symbol":"PGH",
+"Cname":"PENGROWTH ENRGY CP"
+}, {
+"symbol":"PGNX",
+"Cname":"PROGENICS PHARMACEUT"
+}, {
+"symbol":"PGR",
+"Cname":"PROGRESSIVE CP"
+}, {
+"symbol":"PH",
+"Cname":"PARKER HANNIFIN CP"
+}, {
+"symbol":"PHH",
+"Cname":"PHH CORP"
+}, {
+"symbol":"PHM",
+"Cname":"PULTEGroup, INC."
+}, {
+"symbol":"PI",
+"Cname":"IMPINJ INC CM"
+}, {
+"symbol":"PII",
+"Cname":"POLARIS INDUSTRIES"
+}, {
+"symbol":"PIR",
+"Cname":"PIER ONE INC"
+}, {
+"symbol":"PKG",
+"Cname":"PACKAGING CP AMER"
+}, {
+"symbol":"PKI",
+"Cname":"PERKIN ELMER INC"
+}, {
+"symbol":"PKX",
+"Cname":"POSCO"
+}, {
+"symbol":"PLAY",
+"Cname":"DAVE & BUSTER'S ENTE"
+}, {
+"symbol":"PLCE",
+"Cname":"CHILDREN'S PLACE INC"
+}, {
+"symbol":"PLD",
+"Cname":"PROLOGIS, INC"
+}, {
+"symbol":"PLUG",
+"Cname":"PLUG POWER INC"
+}, {
+"symbol":"PM",
+"Cname":"PHILIP MORRIS INTL"
+}, {
+"symbol":"PMT",
+"Cname":"PENNYMAC MTG INVT TR"
+}, {
+"symbol":"PNC",
+"Cname":"P N C FIN SVCS GR"
+}, {
+"symbol":"PNR",
+"Cname":"PENTAIR PLC."
+}, {
+"symbol":"PODD",
+"Cname":"INSULET CORPORATION"
+}, {
+"symbol":"POST",
+"Cname":"Post Holdings Inc"
+}, {
+"symbol":"PPC",
+"Cname":"PILGRIM'S PRIDE CMN"
+}, {
+"symbol":"PPG",
+"Cname":"P P G IND"
+}, {
+"symbol":"PPL",
+"Cname":"PPL CORP"
+}, {
+"symbol":"PQ",
+"Cname":"PETROQUEST ENERGY"
+}, {
+"symbol":"PRAA",
+"Cname":"PRA GROUP INC CMN"
+}, {
+"symbol":"PRGO",
+"Cname":"PERRIGO COMPANY PLC"
+}, {
+"symbol":"PRKR",
+"Cname":"PARKERVISION INC"
+}, {
+"symbol":"PRLB",
+"Cname":"PROTO LABS, INC."
+}, {
+"symbol":"PRTA",
+"Cname":"PROTHENA CORP"
+}, {
+"symbol":"PRTY",
+"Cname":"PARTY CITY HOLDCO"
+}, {
+"symbol":"PRU",
+"Cname":"PRUDENTIAL FINCL INC"
+}, {
+"symbol":"PSA",
+"Cname":"PUBLIC STG"
+}, {
+"symbol":"PSEC",
+"Cname":"PROSPECT CAPITAL CP"
+}, {
+"symbol":"PSMT",
+"Cname":"PRICESMART INC"
+}, {
+"symbol":"PSTG",
+"Cname":"PURE STORAGE, INC."
+}, {
+"symbol":"PSTI",
+"Cname":"PLURISTEM THERAPEUTC"
+}, {
+"symbol":"PSX",
+"Cname":"Phillips 66"
+}, {
+"symbol":"PSXP",
+"Cname":"PHILLIPS 66 PARTNERS"
+}, {
+"symbol":"PTC",
+"Cname":"PTC Inc."
+}, {
+"symbol":"PTCT",
+"Cname":"PTC THERAPEUTICS CMN"
+}, {
+"symbol":"PTEN",
+"Cname":"PATTERSON-UTI ENERGY"
+}, {
+"symbol":"PTLA",
+"Cname":"PORTOLA PHARMA CMN"
+}, {
+"symbol":"PTR",
+"Cname":"PETROCHINA CO ADS"
+}, {
+"symbol":"PTX",
+"Cname":"PERNIX THERAPTCS CMN"
+}, {
+"symbol":"PVG",
+"Cname":"PRETIUM RES INC"
+}, {
+"symbol":"PVH",
+"Cname":"PVH Corp."
+}, {
+"symbol":"PWR",
+"Cname":"QUANTA SERVICES INC"
+}, {
+"symbol":"PX",
+"Cname":"PRAXAIR INC"
+}, {
+"symbol":"PXD",
+"Cname":"PIONEER NATURAL RES"
+}, {
+"symbol":"PXLW",
+"Cname":"PIXELWORKS INC"
+}, {
+"symbol":"PYPL",
+"Cname":"PayPal Holdings"
+}, {
+"symbol":"PZZA",
+"Cname":"PAPA JOHN'S INTL"
+}, {
+"symbol":"QCOM",
+"Cname":"QUALCOMM INC"
+}, {
+"symbol":"QEP",
+"Cname":"QEP RESOURCES, INC"
+}, {
+"symbol":"QID",
+"Cname":"PS UTLRSHRT QQQ"
+}, {
+"symbol":"QIWI",
+"Cname":"QIWI PLC ADR"
+}, {
+"symbol":"QLD",
+"Cname":"PROSHARES ULTRA QQQ"
+}, {
+"symbol":"QLYS",
+"Cname":"QUALYS, INC."
+}, {
+"symbol":"QQQ",
+"Cname":"POWERSHARES QQQ TR 1"
+}, {
+"symbol":"QRTEA",
+"Cname":"QUARTE RETAIL GROUP INC. QVC GROUP"
+}, {
+"symbol":"QRVO",
+"Cname":"QORVO, INC. CMN"
+}, {
+"symbol":"QSII",
+"Cname":"QUALITY SYSTEMS, INC"
+}, {
+"symbol":"QSR",
+"Cname":"RESTAURANT BRANDS"
+}, {
+"symbol":"QUIK",
+"Cname":"QUICKLOGIC CORP"
+}, {
+"symbol":"QUOT",
+"Cname":"QUOTIENT TECHNOLOGY"
+}, {
+"symbol":"R",
+"Cname":"RYDER SYSTEM INC"
+}, {
+"symbol":"RACE",
+"Cname":"Ferrari N.V."
+}, {
+"symbol":"RAD",
+"Cname":"RITE AID CP"
+}, {
+"symbol":"RAS",
+"Cname":"RAIT FINANCIAL TRUST"
+}, {
+"symbol":"RBBN",
+"Cname":"Ribbon Communications Inc"
+}, {
+"symbol":"RBS",
+"Cname":"ROYAL BANK ADS NEW"
+}, {
+"symbol":"RCI",
+"Cname":"ROGERS COMMUN CL B"
+}, {
+"symbol":"RCII",
+"Cname":"RENT-A-CENTER INC"
+}, {
+"symbol":"RCL",
+"Cname":"ROYAL CARIBBEAN CR"
+}, {
+"symbol":"RDC",
+"Cname":"ROWAN COS PLC"
+}, {
+"symbol":"RDI",
+"Cname":"READING INTL CL A"
+}, {
+"symbol":"RDN",
+"Cname":"RADIAN GROUP INC"
+}, {
+"symbol":"RDNT",
+"Cname":"RADNET INC"
+}, {
+"symbol":"RDS.A",
+"Cname":"RYL DTCH SHL CL A"
+}, {
+"symbol":"RDS.B",
+"Cname":"ROYAL DUTCH SHELL"
+}, {
+"symbol":"RDUS",
+"Cname":"RADIUS HEALTH CMN"
+}, {
+"symbol":"RDWR",
+"Cname":"RADWARE LTD."
+}, {
+"symbol":"REGI",
+"Cname":"RENEWABLE ENERGY"
+}, {
+"symbol":"REGN",
+"Cname":"REGENERON PHARMACEUT"
+}, {
+"symbol":"REN",
+"Cname":"RESOLUTE ENERGY CORP"
+}, {
+"symbol":"RENN",
+"Cname":"RENREN INC ADS"
+}, {
+"symbol":"RESI",
+"Cname":"ALTISOURCE RESIDENTI"
+}, {
+"symbol":"RF",
+"Cname":"REGIONS FINANCIAL CP"
+}, {
+"symbol":"RFP",
+"Cname":"RESOLUTE FOREST PDS"
+}, {
+"symbol":"RGEN",
+"Cname":"REPLIGEN CP"
+}, {
+"symbol":"RGLD",
+"Cname":"ROYAL GOLD, INC."
+}, {
+"symbol":"RGLS",
+"Cname":"REGULUS THERAPEUTICS"
+}, {
+"symbol":"RGR",
+"Cname":"STURM RUGER AND CO"
+}, {
+"symbol":"RH",
+"Cname":"RH"
+}, {
+"symbol":"RHI",
+"Cname":"ROBERT HALF INTL INC"
+}, {
+"symbol":"RHT",
+"Cname":"RED HAT INC"
+}, {
+"symbol":"RIG",
+"Cname":"TRANSOCEAN LTD"
+}, {
+"symbol":"RIGL",
+"Cname":"RIGEL PHARMACEUTICAL"
+}, {
+"symbol":"RIO",
+"Cname":"RIO TINTO PLC ADS"
+}, {
+"symbol":"RIOT",
+"Cname":"Riot Blockchain Inc."
+}, {
+"symbol":"RJF",
+"Cname":"RAYMOND JAMES FIN CP"
+}, {
+"symbol":"RL",
+"Cname":"RALPH LAUREN CP"
+}, {
+"symbol":"RLGY",
+"Cname":"REALOGY HOLDINGS CP"
+}, {
+"symbol":"RMBS",
+"Cname":"RAMBUS INC."
+}, {
+"symbol":"RMD",
+"Cname":"RESMED INC"
+}, {
+"symbol":"RMP",
+"Cname":"RICE MIDSTREAM PRTNR"
+}, {
+"symbol":"RMTI",
+"Cname":"ROCKWELL MEDICAL, IN"
+}, {
+"symbol":"RNG",
+"Cname":"RINGCENTRAL, INC."
+}, {
+"symbol":"ROK",
+"Cname":"ROCKWELL AUTOMAT INC"
+}, {
+"symbol":"ROKU",
+"Cname":"ROKU, INC. A CMN"
+}, {
+"symbol":"ROP",
+"Cname":"ROPER TECHNOLOGIES"
+}, {
+"symbol":"ROST",
+"Cname":"ROSS STORES, INC."
+}, {
+"symbol":"ROYT",
+"Cname":"PACIFIC COAST OIL TR"
+}, {
+"symbol":"RP",
+"Cname":"REALPAGE, INC."
+}, {
+"symbol":"RRC",
+"Cname":"RANGE RES CORP"
+}, {
+"symbol":"RRD",
+"Cname":"RR DONNELLEY SONS"
+}, {
+"symbol":"RRGB",
+"Cname":"RED ROBIN GOURM"
+}, {
+"symbol":"RS",
+"Cname":"RELIANCE STL & ALMN"
+}, {
+"symbol":"RSG",
+"Cname":"REPUBLIC SVCS INC"
+}, {
+"symbol":"RSPP",
+"Cname":"RSP PERMIAN, INC."
+}, {
+"symbol":"RTN",
+"Cname":"RAYTHEON CO (NEW)"
+}, {
+"symbol":"RTRX",
+"Cname":"RETROPHIN, INC. CMN"
+}, {
+"symbol":"RUBI",
+"Cname":"RUBICON PROJECT, INC"
+}, {
+"symbol":"RUSL",
+"Cname":"DXN DLY RSSA BULL 3X"
+}, {
+"symbol":"RUSS",
+"Cname":"DXN DLY RSSA BEAR 3X"
+}, {
+"symbol":"RVLT",
+"Cname":"REVOLUTION LGT TC"
+}, {
+"symbol":"RWT",
+"Cname":"REDWOOD TR INC"
+}, {
+"symbol":"RY",
+"Cname":"ROYAL BANK OF CANADA"
+}, {
+"symbol":"RYAM",
+"Cname":"RAYONIER ADVANCED MT"
+}, {
+"symbol":"RYN",
+"Cname":"RAYONIER INC REIT"
+}, {
+"symbol":"S",
+"Cname":"SPRINT CORP"
+}, {
+"symbol":"SA",
+"Cname":"SEABRIDGE GOLD INC"
+}, {
+"symbol":"SABR",
+"Cname":"SABRE CORPORATION CM"
+}, {
+"symbol":"SAFM",
+"Cname":"SANDERSON FARMS IN"
+}, {
+"symbol":"SAGE",
+"Cname":"SAGE THERAPEUTIC COM"
+}, {
+"symbol":"SAM",
+"Cname":"BOSTON BEER CO INC"
+}, {
+"symbol":"SAND",
+"Cname":"SANDSTORM GOLD LTD."
+}, {
+"symbol":"SANM",
+"Cname":"SANMINA CORP"
+}, {
+"symbol":"SANW",
+"Cname":"S&W SEED COMPANY"
+}, {
+"symbol":"SAP",
+"Cname":"SAP SE ADS"
+}, {
+"symbol":"SAVE",
+"Cname":"SPIRIT AIRLINES, INC"
+}, {
+"symbol":"SB",
+"Cname":"SAFE BULKERS, INC"
+}, {
+"symbol":"SBAC",
+"Cname":"SBA COMMUNICATIONS"
+}, {
+"symbol":"SBGI",
+"Cname":"SINCLAIR BRDCST A"
+}, {
+"symbol":"SBGL",
+"Cname":"D/B/A SIBANYE-STLWTR"
+}, {
+"symbol":"SBNY",
+"Cname":"SIGNATURE BANK"
+}, {
+"symbol":"SBUX",
+"Cname":"STARBUCKS CORP"
+}, {
+"symbol":"SC",
+"Cname":"SANTANDER CONSUMER"
+}, {
+"symbol":"SCCO",
+"Cname":"SOUTHERN COPPER CORP"
+}, {
+"symbol":"SCHL",
+"Cname":"SCHOLASTIC CP"
+}, {
+"symbol":"SCHN",
+"Cname":"SCHNITZER STEEL A"
+}, {
+"symbol":"SCHW",
+"Cname":"CHARLES SCHWAB INC"
+}, {
+"symbol":"SCI",
+"Cname":"SERVICE CP INTL"
+}, {
+"symbol":"SCO",
+"Cname":"PROSH BB CRUDE OIL"
+}, {
+"symbol":"SCS",
+"Cname":"STEELCASE INC"
+}, {
+"symbol":"SDLP",
+"Cname":"SEADRILL PARTNERS"
+}, {
+"symbol":"SDR",
+"Cname":"SANDRIDGE MSPIAN TRT"
+}, {
+"symbol":"SDRL",
+"Cname":"SEADRILL LTD"
+}, {
+"symbol":"SDS",
+"Cname":"PT ULTRSHRT SP500 PS"
+}, {
+"symbol":"SDT",
+"Cname":"SANDRIDGE MISSISSIPP"
+}, {
+"symbol":"SEAS",
+"Cname":"SEAWORLD ENTERTAINME"
+}, {
+"symbol":"SEDG",
+"Cname":"SOLAREDGE TECH CMN"
+}, {
+"symbol":"SEE",
+"Cname":"SEALED AIR CP NEW"
+}, {
+"symbol":"SEED",
+"Cname":"ORIGIN AGRITECH LIMI"
+}, {
+"symbol":"SEMG",
+"Cname":"SEMGROUP CORP"
+}, {
+"symbol":"SEP",
+"Cname":"SPECTRA ENERGY UTS"
+}, {
+"symbol":"SFL",
+"Cname":"SHIP FINANCE INTL"
+}, {
+"symbol":"SFLY",
+"Cname":"SHUTTERFLY, INC."
+}, {
+"symbol":"SFM",
+"Cname":"SPROUTS FARMERS MARK"
+}, {
+"symbol":"SFUN",
+"Cname":"FANG HOLDINGS LTD"
+}, {
+"symbol":"SGEN",
+"Cname":"SEATTLE GENETICS INC"
+}, {
+"symbol":"SGMO",
+"Cname":"SANGAMO THERAPEUTICS"
+}, {
+"symbol":"SGMS",
+"Cname":"SCIENTIFIC GAMES"
+}, {
+"symbol":"SGYP",
+"Cname":"SYNERGY PHARMA CMN"
+}, {
+"symbol":"SH",
+"Cname":"SHRT S&P500 PROSHRS"
+}, {
+"symbol":"SHAK",
+"Cname":"SHAKE SHACK, INC."
+}, {
+"symbol":"SHLD",
+"Cname":"SEARS HLDGS CORP"
+}, {
+"symbol":"SHLX",
+"Cname":"SHELL MIDSTREAM PRTN"
+}, {
+"symbol":"SHOO",
+"Cname":"STEVEN MADDENS LTD"
+}, {
+"symbol":"SHOP",
+"Cname":"SHOPIFY INC."
+}, {
+"symbol":"SHPG",
+"Cname":"SHIRE PLC ADS"
+}, {
+"symbol":"SHW",
+"Cname":"SHERWIN WILLIAMS CO"
+}, {
+"symbol":"SID",
+"Cname":"COMPANHIA SIDER ADS"
+}, {
+"symbol":"SIG",
+"Cname":"SIGNET JEWELERS LTD"
+}, {
+"symbol":"SIGM",
+"Cname":"SIGMA DESIGNS INC"
+}, {
+"symbol":"SIMO",
+"Cname":"SILICON MOTION TECHN"
+}, {
+"symbol":"SINA",
+"Cname":"SINA CORPORATION"
+}, {
+"symbol":"SIRI",
+"Cname":"SIRIUS XM HOLDINGS I"
+}, {
+"symbol":"SIX",
+"Cname":"SIX FLAGS ENTMNT CP"
+}, {
+"symbol":"SJM",
+"Cname":"SMUCKERS J M NEW"
+}, {
+"symbol":"SKF",
+"Cname":"ULTRASHORT FINANCIAL"
+}, {
+"symbol":"SKT",
+"Cname":"TANGER FACTORY OUT"
+}, {
+"symbol":"SKX",
+"Cname":"SKECHERS USA INC"
+}, {
+"symbol":"SLAB",
+"Cname":"SILICON LABS INC"
+}, {
+"symbol":"SLB",
+"Cname":"SCHLUMBERGER LTD"
+}, {
+"symbol":"SLCA",
+"Cname":"U.S. SILICA HLDGS"
+}, {
+"symbol":"SLG",
+"Cname":"SL GREEN REALTY CP"
+}, {
+"symbol":"SLM",
+"Cname":"SLM CORPORATION"
+}, {
+"symbol":"SLV",
+"Cname":"ISHARES SILVER TRUST"
+}, {
+"symbol":"SM",
+"Cname":"SM Energy Company"
+}, {
+"symbol":"SMCI",
+"Cname":"SUPER MICRO COMPUTER"
+}, {
+"symbol":"SMFG",
+"Cname":"SUMITOMO MITSUI FIN"
+}, {
+"symbol":"SMG",
+"Cname":"SCOTTS MIRACLE-GR CO"
+}, {
+"symbol":"SMH",
+"Cname":"VANECK VECTORS SEMIS"
+}, {
+"symbol":"SMLP",
+"Cname":"SUMMIT MIDSTREAM PRT"
+}, {
+"symbol":"SN",
+"Cname":"SANCHEZ ENERGY CORP"
+}, {
+"symbol":"SNA",
+"Cname":"SNAP ON INC"
+}, {
+"symbol":"SNAP",
+"Cname":"SNAP Inc."
+}, {
+"symbol":"SNBR",
+"Cname":"SLEEP NUMBER CORP"
+}, {
+"symbol":"SNCR",
+"Cname":"SYNCHRONOSS TECHNOLO"
+}, {
+"symbol":"SNE",
+"Cname":"SONY CP ADR"
+}, {
+"symbol":"SNMX",
+"Cname":"SENOMYX, INC."
+}, {
+"symbol":"SNN",
+"Cname":"SMITH&NEPHEW PLC NEW"
+}, {
+"symbol":"SNSS",
+"Cname":"SUNESIS PHARMACEUTIC"
+}, {
+"symbol":"SNV",
+"Cname":"SYNOVUS FINL CP"
+}, {
+"symbol":"SNX",
+"Cname":"SYNNEX CORP"
+}, {
+"symbol":"SNY",
+"Cname":"SANOFI ADR"
+}, {
+"symbol":"SO",
+"Cname":"SOUTHERN CO"
+}, {
+"symbol":"SODA",
+"Cname":"SODASTREAM INT LTD"
+}, {
+"symbol":"SOHU",
+"Cname":"SOHU.COM INC"
+}, {
+"symbol":"SOL",
+"Cname":"RENESOLA LTD"
+}, {
+"symbol":"SONC",
+"Cname":"SONIC CP"
+}, {
+"symbol":"SPB",
+"Cname":"SPECTRUM BRANDS HLDG"
+}, {
+"symbol":"SPG",
+"Cname":"SIMON PPTY GRP INC"
+}, {
+"symbol":"SPGI",
+"Cname":"S&P Global Inc."
+}, {
+"symbol":"SPLK",
+"Cname":"SPLUNK INC."
+}, {
+"symbol":"SPN",
+"Cname":"SUPERIOR ENERGY SV"
+}, {
+"symbol":"SPOT",
+"Cname":"Spotify Technology SA"
+}, {
+"symbol":"SPPI",
+"Cname":"SPECTRUM PHARMA INC"
+}, {
+"symbol":"SPR",
+"Cname":"SPIRIT AEROSYSTEMS H"
+}, {
+"symbol":"SPWR",
+"Cname":"SUNPOWER CORPORATION"
+}, {
+"symbol":"SPXC",
+"Cname":"SPX CORPORATION"
+}, {
+"symbol":"SPXL",
+"Cname":"DIREXION S&P BULL 3X"
+}, {
+"symbol":"SPXS",
+"Cname":"DIREXION S&P500 BEAR"
+}, {
+"symbol":"SPXU",
+"Cname":"PROSHARES"
+}, {
+"symbol":"SPY",
+"Cname":"SPDR S&P 500 ETF TRS"
+}, {
+"symbol":"SQ",
+"Cname":"SQUARE, INC."
+}, {
+"symbol":"SQM",
+"Cname":"SOCIEDAD DE CHILE SC"
+}, {
+"symbol":"SQQQ",
+"Cname":"PROSHRES ULTRPR SH Q"
+}, {
+"symbol":"SRCI",
+"Cname":"SRC ENERGY INC."
+}, {
+"symbol":"SRCL",
+"Cname":"STERICYCLE, INC."
+}, {
+"symbol":"SRE",
+"Cname":"SEMPRA ENERGY"
+}, {
+"symbol":"SRNE",
+"Cname":"SORRENTO THERPT CMN"
+}, {
+"symbol":"SRPT",
+"Cname":"SAREPTA THERAPEUTICS"
+}, {
+"symbol":"SRS",
+"Cname":"ULTRASHORT REAL ESTA"
+}, {
+"symbol":"SSO",
+"Cname":"ULTRA S&P500 PROSHRS"
+}, {
+"symbol":"SSRM",
+"Cname":"SSR MINING INC"
+}, {
+"symbol":"SSTK",
+"Cname":"SHUTTERSTOCK, INC."
+}, {
+"symbol":"SSW",
+"Cname":"SEASPAN CORPORATION"
+}, {
+"symbol":"SSYS",
+"Cname":"STRATASYS, LTD."
+}, {
+"symbol":"ST",
+"Cname":"SENSATA TECH HOLDING"
+}, {
+"symbol":"STAA",
+"Cname":"STAAR SURGICAL CO"
+}, {
+"symbol":"STAR",
+"Cname":"iStar Inc."
+}, {
+"symbol":"STAY",
+"Cname":"EXTENDED STAY AMERCA"
+}, {
+"symbol":"STI",
+"Cname":"SUNTRUST BANKS"
+}, {
+"symbol":"STKL",
+"Cname":"SUNOPTA INC"
+}, {
+"symbol":"STLD",
+"Cname":"STEEL DYNAMICS INC"
+}, {
+"symbol":"STM",
+"Cname":"STMICROELECTRONICS"
+}, {
+"symbol":"STML",
+"Cname":"STEMLINE THERAPEUTIC"
+}, {
+"symbol":"STMP",
+"Cname":"STAMPS.COM INC"
+}, {
+"symbol":"STNG",
+"Cname":"SCORPIO TANKERS INC."
+}, {
+"symbol":"STO",
+"Cname":"STATOIL ASA"
+}, {
+"symbol":"STON",
+"Cname":"STONEMOR LP UT"
+}, {
+"symbol":"STT",
+"Cname":"STATE STREET CP"
+}, {
+"symbol":"STWD",
+"Cname":"STARWOOD PROPERTY TR"
+}, {
+"symbol":"STX",
+"Cname":"SEAGATE TECH ORD SHS"
+}, {
+"symbol":"STZ",
+"Cname":"CONSTELLATION BRD A"
+}, {
+"symbol":"SU",
+"Cname":"SUNCOR ENERGY INC"
+}, {
+"symbol":"SUN",
+"Cname":"Sunoco LP"
+}, {
+"symbol":"SUPN",
+"Cname":"SUPERNUS PHARM"
+}, {
+"symbol":"SVU",
+"Cname":"SUPERVALU INC"
+}, {
+"symbol":"SVXY",
+"Cname":"PROSHARES SHT VIX ST"
+}, {
+"symbol":"SWIR",
+"Cname":"SIERRA WIRELESS IN"
+}, {
+"symbol":"SWK",
+"Cname":"STANLEY BLACK & DCKR"
+}, {
+"symbol":"SWKS",
+"Cname":"SKYWORKS SOLUTIONS"
+}, {
+"symbol":"SWN",
+"Cname":"SOUTHWESTERN ENERGY"
+}, {
+"symbol":"SXC",
+"Cname":"SUNCOKE ENERGY, INC"
+}, {
+"symbol":"SXE",
+"Cname":"SOUTHCROSS ENERGY LP"
+}, {
+"symbol":"SYF",
+"Cname":"Synchrony Financial"
+}, {
+"symbol":"SYK",
+"Cname":"STRYKER CP"
+}, {
+"symbol":"SYMC",
+"Cname":"SYMANTEC CORPORATION"
+}, {
+"symbol":"SYNA",
+"Cname":"SYNAPTICS INC"
+}, {
+"symbol":"SYY",
+"Cname":"SYSCO CP"
+}, {
+"symbol":"T",
+"Cname":"AT&T INC."
+}, {
+"symbol":"TA",
+"Cname":"TRAVELCNTRS AMER CM"
+}, {
+"symbol":"TAHO",
+"Cname":"TAHOE RES INC"
+}, {
+"symbol":"TAP",
+"Cname":"MOLSON COORS CO CL B"
+}, {
+"symbol":"TBT",
+"Cname":"PROSHARES TRUST"
+}, {
+"symbol":"TCBI",
+"Cname":"TEXAS CAPITAL BNCSH"
+}, {
+"symbol":"TCS",
+"Cname":"CONTAINER STORE THE"
+}, {
+"symbol":"TCX",
+"Cname":"TUCOWS INC CL A CMN"
+}, {
+"symbol":"TD",
+"Cname":"TORONTO DOMINION"
+}, {
+"symbol":"TDC",
+"Cname":"TERADATA CORP"
+}, {
+"symbol":"TDG",
+"Cname":"TRANSDIGM GRP INC"
+}, {
+"symbol":"TECD",
+"Cname":"TECH DATA CP"
+}, {
+"symbol":"TECK",
+"Cname":"TECK RESOURCES CL B"
+}, {
+"symbol":"TEL",
+"Cname":"TE CONNECTIVITY LTD"
+}, {
+"symbol":"TEN",
+"Cname":"TENNECO INC"
+}, {
+"symbol":"TEP",
+"Cname":"TALLGRASS ENERGY"
+}, {
+"symbol":"TER",
+"Cname":"TERADYNE INC"
+}, {
+"symbol":"TEVA",
+"Cname":"TEVA PHARM INDS LTD"
+}, {
+"symbol":"TEX",
+"Cname":"TEREX CP"
+}, {
+"symbol":"TFSL",
+"Cname":"TFS FINANCIAL CORP."
+}, {
+"symbol":"TGB",
+"Cname":"TASEKO MINES LTD"
+}, {
+"symbol":"TGNA",
+"Cname":"TEGNA Inc."
+}, {
+"symbol":"TGP",
+"Cname":"TEEKAY LNG PTRS LP"
+}, {
+"symbol":"TGT",
+"Cname":"TARGET CP"
+}, {
+"symbol":"TGTX",
+"Cname":"TG THERAPEUTICSCMN"
+}, {
+"symbol":"THC",
+"Cname":"TENET HLTHCRE CP"
+}, {
+"symbol":"THO",
+"Cname":"THOR INDS INC"
+}, {
+"symbol":"THRM",
+"Cname":"GENTHERM INC CMN"
+}, {
+"symbol":"TIF",
+"Cname":"TIFFANY AND CO"
+}, {
+"symbol":"TITN",
+"Cname":"TITAN MACHINERY INC."
+}, {
+"symbol":"TIVO",
+"Cname":"TIVO CORPORATION"
+}, {
+"symbol":"TJX",
+"Cname":"T J X COS INC"
+}, {
+"symbol":"TK",
+"Cname":"TEEKAY CORP"
+}, {
+"symbol":"TKR",
+"Cname":"TIMKEN CO"
+}, {
+"symbol":"TLGT",
+"Cname":"TELIGENT CMN STK"
+}, {
+"symbol":"TLRD",
+"Cname":"TAILORED BRANDS, INC"
+}, {
+"symbol":"TLT",
+"Cname":"ISHARES  20"
+}, {
+"symbol":"TM",
+"Cname":"TOYOTA MTR CP ADS"
+}, {
+"symbol":"TMO",
+"Cname":"THERMO FISHER SCIENT"
+}, {
+"symbol":"TMUS",
+"Cname":"T-MOBILE US CMN"
+}, {
+"symbol":"TMV",
+"Cname":"DIREXION DAILY 20-YE"
+}, {
+"symbol":"TNA",
+"Cname":"SMALL CAP BULL 3X"
+}, {
+"symbol":"TNET",
+"Cname":"TRINET GROUP, INC."
+}, {
+"symbol":"TNK",
+"Cname":"TEEKAY TANKERS CL A"
+}, {
+"symbol":"TNP",
+"Cname":"TSAKOS ENERGY NAVIG"
+}, {
+"symbol":"TNXP",
+"Cname":"TONIX PHARM HLDG CMN"
+}, {
+"symbol":"TOL",
+"Cname":"TOLL BROTHERS INC"
+}, {
+"symbol":"TOT",
+"Cname":"TOTAL S.A."
+}, {
+"symbol":"TPH",
+"Cname":"TRI POINTE GROUP, IN"
+}, {
+"symbol":"TPR",
+"Cname":"TAPESTRY, INC."
+}, {
+"symbol":"TPX",
+"Cname":"TEMPUR SEALY INTL"
+}, {
+"symbol":"TQQQ",
+"Cname":"PROSHRES ULTRPRO QQQ"
+}, {
+"symbol":"TREE",
+"Cname":"LENDINGTREE, INC."
+}, {
+"symbol":"TREX",
+"Cname":"TREX CO INC"
+}, {
+"symbol":"TRGP",
+"Cname":"TARGA RESOURCES INC"
+}, {
+"symbol":"TRIP",
+"Cname":"TRIPADVISOR, INC."
+}, {
+"symbol":"TRMB",
+"Cname":"TRIMBLE INC."
+}, {
+"symbol":"TRN",
+"Cname":"TRINITY IND"
+}, {
+"symbol":"TROV",
+"Cname":"Trovagene Inc"
+}, {
+"symbol":"TROW",
+"Cname":"T ROWE PRICE GROUP"
+}, {
+"symbol":"TROX",
+"Cname":"TRONOX LTD"
+}, {
+"symbol":"TRP",
+"Cname":"TRANSCANADA CORP"
+}, {
+"symbol":"TRQ",
+"Cname":"TURQUOISE HILL RES"
+}, {
+"symbol":"TRU",
+"Cname":"TRUECAR INC CMN"
+}, {
+"symbol":"TRV",
+"Cname":"THE TRAVELERS CO"
+}, {
+"symbol":"TRVG",
+"Cname":"TRIVAGO N.V. ADS"
+}, {
+"symbol":"TRXC",
+"Cname":"TransEnterix, Inc."
+}, {
+"symbol":"TS",
+"Cname":"TENARIS S.A ADS"
+}, {
+"symbol":"TSCO",
+"Cname":"TRACTOR SUPPLY CO"
+}, {
+"symbol":"TSEM",
+"Cname":"TOWER SEMICONDUCTOR"
+}, {
+"symbol":"TSLA",
+"Cname":"TESLA, INC."
+}, {
+"symbol":"TSM",
+"Cname":"TAIWAN SEMICOND ADS"
+}, {
+"symbol":"TSN",
+"Cname":"TYSON FOODS INC CL A"
+}, {
+"symbol":"TSRO",
+"Cname":"TESARO, INC."
+}, {
+"symbol":"TTD",
+"Cname":"THE TRADE DESK CL A"
+}, {
+"symbol":"TTM",
+"Cname":"TATA MOTORS INC"
+}, {
+"symbol":"TTNP",
+"Cname":"TITAN PHARMA COMMON"
+}, {
+"symbol":"TTPH",
+"Cname":"TETRAPHASE PHARMACEU"
+}, {
+"symbol":"TTS",
+"Cname":"TILE SHOP HLDGS CMN"
+}, {
+"symbol":"TTWO",
+"Cname":"TAKE-TWO INTERACTI"
+}, {
+"symbol":"TUES",
+"Cname":"TUESDAY MORNING CO"
+}, {
+"symbol":"TUP",
+"Cname":"TUPPERWARE BRANDS CP"
+}, {
+"symbol":"TV",
+"Cname":"TELVISA S.A."
+}, {
+"symbol":"TVPT",
+"Cname":"TRAVELPORT WORLDWIDE"
+}, {
+"symbol":"TWI",
+"Cname":"TITAN INTL INC"
+}, {
+"symbol":"TWLO",
+"Cname":"TWILIO INC. CL A"
+}, {
+"symbol":"TWO",
+"Cname":"TWO HARBORS INVT CP"
+}, {
+"symbol":"TWTR",
+"Cname":"TWITTER, INC."
+}, {
+"symbol":"TWX",
+"Cname":"TIME WARNER INC NEW"
+}, {
+"symbol":"TXMD",
+"Cname":"THERAPEUTICSMD INC"
+}, {
+"symbol":"TXN",
+"Cname":"TEXAS INSTRUMENTS"
+}, {
+"symbol":"TXRH",
+"Cname":"TEXAS ROADHOUSE, INC"
+}, {
+"symbol":"TXT",
+"Cname":"TEXTRON INC"
+}, {
+"symbol":"TZA",
+"Cname":"SMALL CAP BEAR 3X"
+}, {
+"symbol":"UA",
+"Cname":"UNDER ARMOUR C"
+}, {
+"symbol":"UAA",
+"Cname":"UNDER ARMOUR INC"
+}, {
+"symbol":"UAL",
+"Cname":"UNITED CONTINENTAL H"
+}, {
+"symbol":"UBNT",
+"Cname":"UBIQUITI NETWORKS, I"
+}, {
+"symbol":"UCO",
+"Cname":"PROSH ULTRA BB CRD"
+}, {
+"symbol":"UCTT",
+"Cname":"ULTRA CLEAN HOLDINGS"
+}, {
+"symbol":"UEC",
+"Cname":"URANIUM ENERGY CORP"
+}, {
+"symbol":"UEPS",
+"Cname":"NET 1 UEPS TECHS INC"
+}, {
+"symbol":"UFS",
+"Cname":"DOMTAR CORP NEW"
+}, {
+"symbol":"UGI",
+"Cname":"U G I CP"
+}, {
+"symbol":"UHS",
+"Cname":"UNIVERSAL HLTH SVC B"
+}, {
+"symbol":"UIHC",
+"Cname":"UNITED INSURANCE HLD"
+}, {
+"symbol":"UIS",
+"Cname":"UNISYS CP NEW"
+}, {
+"symbol":"UL",
+"Cname":"UNILEVER PLC AMER"
+}, {
+"symbol":"ULTA",
+"Cname":"ULTA BEAUTY, INC."
+}, {
+"symbol":"ULTI",
+"Cname":"ULTIMATE SOFTWARE"
+}, {
+"symbol":"UN",
+"Cname":"UNILEVER N V N Y"
+}, {
+"symbol":"UNFI",
+"Cname":"UNITED NAT FOODS I"
+}, {
+"symbol":"UNG",
+"Cname":"US NAT GAS FD ETF"
+}, {
+"symbol":"UNH",
+"Cname":"UNITEDHEALTH GROUP"
+}, {
+"symbol":"UNIT",
+"Cname":"UNITI GROUP INC."
+}, {
+"symbol":"UNM",
+"Cname":"UNUM GROUP"
+}, {
+"symbol":"UNP",
+"Cname":"UNION PACIFIC"
+}, {
+"symbol":"UNT",
+"Cname":"UNIT CP"
+}, {
+"symbol":"UPRO",
+"Cname":"PROSHARES"
+}, {
+"symbol":"UPS",
+"Cname":"UNITED PARCEL SVC"
+}, {
+"symbol":"URBN",
+"Cname":"URBAN OUTFITTERS INC"
+}, {
+"symbol":"URE",
+"Cname":"ULTRA REAL ESTATE PR"
+}, {
+"symbol":"URI",
+"Cname":"UNITED RENTALS INC"
+}, {
+"symbol":"USAC",
+"Cname":"USA COMPRESSION PRTN"
+}, {
+"symbol":"USB",
+"Cname":"US BANCORP"
+}, {
+"symbol":"USG",
+"Cname":"U S G CP"
+}, {
+"symbol":"USO",
+"Cname":"U.S. OIL FUND  ETF"
+}, {
+"symbol":"UTHR",
+"Cname":"UNITED THERAPEUTIC"
+}, {
+"symbol":"UTX",
+"Cname":"UNITED TECH"
+}, {
+"symbol":"UUP",
+"Cname":"PS DB USD IDX BL FD"
+}, {
+"symbol":"UVE",
+"Cname":"UNIVERSAL INSUR HLDG"
+}, {
+"symbol":"UVXY",
+"Cname":"PROSHARES OUT VIX ST"
+}, {
+"symbol":"UYG",
+"Cname":"ULTRA FINANCIALS PRO"
+}, {
+"symbol":"V",
+"Cname":"VISA INC."
+}, {
+"symbol":"VALE",
+"Cname":"VALE S.A. ADS"
+}, {
+"symbol":"VAR",
+"Cname":"VARIAN MED SYS INC"
+}, {
+"symbol":"VC",
+"Cname":"VISTEON CORP"
+}, {
+"symbol":"VCRA",
+"Cname":"VOCERA COMMS, INC."
+}, {
+"symbol":"VDSI",
+"Cname":"VASCO DATA SECURITY"
+}, {
+"symbol":"VECO",
+"Cname":"VEECO INSTRUMENT"
+}, {
+"symbol":"VEEV",
+"Cname":"VEEVA SYSTEMS INC."
+}, {
+"symbol":"VEON",
+"Cname":"VEON LTD. ADS"
+}, {
+"symbol":"VER",
+"Cname":"VEREIT, INC. CMN"
+}, {
+"symbol":"VFC",
+"Cname":"V F CP"
+}, {
+"symbol":"VHC",
+"Cname":"VIRNETX HOLDING CORP"
+}, {
+"symbol":"VIAB",
+"Cname":"VIACOM INC CL B"
+}, {
+"symbol":"VIAV",
+"Cname":"VIAVI SOLUTIONS CMN"
+}, {
+"symbol":"VICL",
+"Cname":"VICAL INCORPORATED"
+}, {
+"symbol":"VIPS",
+"Cname":"VIPSHOP HOLDINGS LTD"
+}, {
+"symbol":"VIXY",
+"Cname":"PROSHARES VIX SHORT-"
+}, {
+"symbol":"VJET",
+"Cname":"VOXELJET AG"
+}, {
+"symbol":"VLO",
+"Cname":"VALERO ENERGY CP"
+}, {
+"symbol":"VMC",
+"Cname":"VULCAN MATERIALS HC"
+}, {
+"symbol":"VMW",
+"Cname":"VMWARE, INC."
+}, {
+"symbol":"VNCE",
+"Cname":"VINCE HOLDING CORP."
+}, {
+"symbol":"VNDA",
+"Cname":"VANDA PHARMACEUTICAL"
+}, {
+"symbol":"VNET",
+"Cname":"21VIANET GROUP, INC."
+}, {
+"symbol":"VNO",
+"Cname":"VORNADO REALTY TRUST"
+}, {
+"symbol":"VOD",
+"Cname":"VODAFONE GRP PLC ADS"
+}, {
+"symbol":"VOYA",
+"Cname":"VOYA FINL, INC."
+}, {
+"symbol":"VRA",
+"Cname":"VERA BRADLEY"
+}, {
+"symbol":"VRSK",
+"Cname":"VERISK ANALYTICS INC"
+}, {
+"symbol":"VRSN",
+"Cname":"VERISIGN, INC."
+}, {
+"symbol":"VRTX",
+"Cname":"VERTEX PHARMACEUTIC"
+}, {
+"symbol":"VRX",
+"Cname":"VALEANT PHARM INT'L"
+}, {
+"symbol":"VSAR",
+"Cname":"VERSARTIS, INC. CMN"
+}, {
+"symbol":"VSAT",
+"Cname":"VIASAT INC"
+}, {
+"symbol":"VSI",
+"Cname":"VITAMIN SHOPPE, INC"
+}, {
+"symbol":"VSLR",
+"Cname":"VIVINT SOLAR, INC."
+}, {
+"symbol":"VTL",
+"Cname":"VITAL THERAPIES, INC"
+}, {
+"symbol":"VTR",
+"Cname":"VENTAS INC"
+}, {
+"symbol":"VVUS",
+"Cname":"VIVUS, INC."
+}, {
+"symbol":"VWO",
+"Cname":"VANGRD FTSE EMRG"
+}, {
+"symbol":"VXX",
+"Cname":"IPATH S&P 500 VIX SH"
+}, {
+"symbol":"VXXB",
+"Cname":"IPATH Series B S&P 500 VIX Short Term Futures"
+}, {
+"symbol":"VXZB",
+"Cname":"iPath Series B S&P 500 VIX Mid-Term Futures"
+}, {
+"symbol":"VZ",
+"Cname":"VERIZON COMMUN"
+}, {
+"symbol":"W",
+"Cname":"Wayfair Inc."
+}, {
+"symbol":"WAB",
+"Cname":"WESTINGHOUSE AIR BRA"
+}, {
+"symbol":"WAT",
+"Cname":"WATERS CP"
+}, {
+"symbol":"WATT",
+"Cname":"ENERGOUS CORP CMN"
+}, {
+"symbol":"WB",
+"Cname":"WEIBO CORP. ADS"
+}, {
+"symbol":"WBA",
+"Cname":"WALGREENS BTS ALN CM"
+}, {
+"symbol":"WBAI",
+"Cname":"500.COM LTD."
+}, {
+"symbol":"WCC",
+"Cname":"WESCO INTL INC"
+}, {
+"symbol":"WCG",
+"Cname":"WELLCARE HEALTHPLANS"
+}, {
+"symbol":"WCN",
+"Cname":"WASTE CONNECTIONS, I"
+}, {
+"symbol":"WDAY",
+"Cname":"WORKDAY INC CL A"
+}, {
+"symbol":"WDC",
+"Cname":"WESTERN DIGITAL CP"
+}, {
+"symbol":"WEB",
+"Cname":"WEB.COM GROUP, INC."
+}, {
+"symbol":"WEC",
+"Cname":"WEC ENERGY GP, INC."
+}, {
+"symbol":"WELL",
+"Cname":"Welltower Inc."
+}, {
+"symbol":"WEN",
+"Cname":"WENDYS COMPANY (THE)"
+}, {
+"symbol":"WES",
+"Cname":"WESTERN GAS PARTNERS"
+}, {
+"symbol":"WETF",
+"Cname":"WISDOMTREE INVSTMNTS"
+}, {
+"symbol":"WFC",
+"Cname":"WELLS FARGO & CO NEW"
+}, {
+"symbol":"WFT",
+"Cname":"WEATHERFORD INTL PLC"
+}, {
+"symbol":"WGO",
+"Cname":"WINNEBAGO IND INC"
+}, {
+"symbol":"WHR",
+"Cname":"WHIRLPOOL CP"
+}, {
+"symbol":"WIN",
+"Cname":"WINDSTREAM HLDGS INC"
+}, {
+"symbol":"WING",
+"Cname":"WINGSTOP INC. CMN"
+}, {
+"symbol":"WIX",
+"Cname":"WIX.COM LTD."
+}, {
+"symbol":"WLB",
+"Cname":"WESTMORELAND COAL"
+}, {
+"symbol":"WLK",
+"Cname":"WESTLAKE CHEMICAL CO"
+}, {
+"symbol":"WLL",
+"Cname":"WHITING PETE CORP"
+}, {
+"symbol":"WM",
+"Cname":"WASTE MGMT INC"
+}, {
+"symbol":"WMB",
+"Cname":"WILLIAMS COS"
+}, {
+"symbol":"WMC",
+"Cname":"WESTERN ASSET MTG"
+}, {
+"symbol":"WMT",
+"Cname":"WAL MART STORES"
+}, {
+"symbol":"WNC",
+"Cname":"WABASH NATL CP"
+}, {
+"symbol":"WPC",
+"Cname":"W.P. CAREY INC."
+}, {
+"symbol":"WPG",
+"Cname":"WASHINGTON PRIME GRP"
+}, {
+"symbol":"WPM",
+"Cname":"WHEATON PRECIOUS MTL"
+}, {
+"symbol":"WPRT",
+"Cname":"WESTPORT FUEL SYSTEM"
+}, {
+"symbol":"WPX",
+"Cname":"WPX ENERGY, INC."
+}, {
+"symbol":"WRK",
+"Cname":"WESTROCK CO"
+}, {
+"symbol":"WSM",
+"Cname":"WILLIAMS SONOMA INC"
+}, {
+"symbol":"WTI",
+"Cname":"W&T OFFSHORE, INC."
+}, {
+"symbol":"WTW",
+"Cname":"WEIGHT WATCHERS INTL"
+}, {
+"symbol":"WU",
+"Cname":"WESTERN UNION COMPAN"
+}, {
+"symbol":"WUBA",
+"Cname":"58.COM INC"
+}, {
+"symbol":"WWE",
+"Cname":"WORLD WRESTLING ENT"
+}, {
+"symbol":"WY",
+"Cname":"WEYERHAEUSER CO"
+}, {
+"symbol":"WYN",
+"Cname":"WYNDHAM WORLDWIDE"
+}, {
+"symbol":"WYNN",
+"Cname":"WYNN RESORTS LIMITED"
+}, {
+"symbol":"X",
+"Cname":"UNITED STATES STEEL"
+}, {
+"symbol":"XBI",
+"Cname":"SPDR S&P Biotech ETF"
+}, {
+"symbol":"XEC",
+"Cname":"CIMAREX ENERGY CO"
+}, {
+"symbol":"XHB",
+"Cname":"SPDR HOMEBUILDERS ET"
+}, {
+"symbol":"XIN",
+"Cname":"XINYUAN RE CO ADS"
+}, {
+"symbol":"XL",
+"Cname":"XL GROUP LTD."
+}, {
+"symbol":"XLB",
+"Cname":"MATERIALS SS SPDR FD"
+}, {
+"symbol":"XLE",
+"Cname":"ENERGY SELECT SPDR"
+}, {
+"symbol":"XLF",
+"Cname":"FINANCIAL SEL SPDR"
+}, {
+"symbol":"XLI",
+"Cname":"INDUSTRIAL SPDR"
+}, {
+"symbol":"XLK",
+"Cname":"TECHNOLOGY SPDR"
+}, {
+"symbol":"XLNX",
+"Cname":"XILINX, INC."
+}, {
+"symbol":"XLP",
+"Cname":"CONSUMER STAP SPDR"
+}, {
+"symbol":"XLRN",
+"Cname":"ACCELERON PHARMA CMN"
+}, {
+"symbol":"XLU",
+"Cname":"UTILITIES SEL SPDR"
+}, {
+"symbol":"XLV",
+"Cname":"HEALTHCARE SS SPDR F"
+}, {
+"symbol":"XLY",
+"Cname":"CONSUMER DIS SS SPDR"
+}, {
+"symbol":"XME",
+"Cname":"SPDR S&P METALS & MI"
+}, {
+"symbol":"XNET",
+"Cname":"XUNLEI LIMITED ADR"
+}, {
+"symbol":"XOM",
+"Cname":"EXXON MOBIL CP"
+}, {
+"symbol":"XON",
+"Cname":"INTREXON CORP"
+}, {
+"symbol":"XONE",
+"Cname":"THE EXONE COMPANY"
+}, {
+"symbol":"XOP",
+"Cname":"ST SPDR O&G E&P ETF"
+}, {
+"symbol":"XPER",
+"Cname":"Xperi Corporation"
+}, {
+"symbol":"XPO",
+"Cname":"XPO LOGISTICS, INC."
+}, {
+"symbol":"XRT",
+"Cname":"SPDR RETAIL ETF"
+}, {
+"symbol":"XRX",
+"Cname":"XEROX CP"
+}, {
+"symbol":"XSPA",
+"Cname":"XpresSpa Group, Inc."
+}, {
+"symbol":"XXII",
+"Cname":"22ND CENTURY GRP"
+}, {
+"symbol":"YCS",
+"Cname":"PROSHS ULTRASHRT YEN"
+}, {
+"symbol":"YELP",
+"Cname":"YELP INC."
+}, {
+"symbol":"YGE",
+"Cname":"YINGLI GRN ENGY ADR"
+}, {
+"symbol":"YNDX",
+"Cname":"YANDEX N.V."
+}, {
+"symbol":"YPF",
+"Cname":"Y P F SOCIEDADE ANON"
+}, {
+"symbol":"YRCW",
+"Cname":"YRC WORLDWIDE"
+}, {
+"symbol":"YUM",
+"Cname":"YUM BRANDS INC"
+}, {
+"symbol":"YUMC",
+"Cname":"YUM CHINA HLDGS"
+}, {
+"symbol":"YY",
+"Cname":"YY INC"
+}, {
+"symbol":"Z",
+"Cname":"ZILLOW GROUP CL C"
+}, {
+"symbol":"ZAGG",
+"Cname":"ZAGG INC"
+}, {
+"symbol":"ZAYO",
+"Cname":"ZAYO GRP HLDGS, INC."
+}, {
+"symbol":"ZBH",
+"Cname":"ZIMMER BIOMET HLDGS"
+}, {
+"symbol":"ZBRA",
+"Cname":"ZEBRA TECHNOLOGIES"
+}, {
+"symbol":"ZEN",
+"Cname":"Zendesk, Inc."
+}, {
+"symbol":"ZG",
+"Cname":"ZILLOW GRP INC CL A"
+}, {
+"symbol":"ZGNX",
+"Cname":"ZOGENIX, INC."
+}, {
+"symbol":"ZION",
+"Cname":"ZIONS BANCORPORATION"
+}, {
+"symbol":"ZIOP",
+"Cname":"ZIOPHARM ONCOLOGY IN"
+}, {
+"symbol":"ZN",
+"Cname":"ZION OIL & GAS, INC."
+}, {
+"symbol":"ZNGA",
+"Cname":"ZYNGA INC CL A CMN"
+}, {
+"symbol":"ZNH",
+"Cname":"CHINA SOUTH AIR LTD"
+}, {
+"symbol":"ZOES",
+"Cname":"ZOE'S KITCHEN, INC."
+}, {
+"symbol":"ZS",
+"Cname":"Zscaler Inc."
+}, {
+"symbol":"ZSL",
+"Cname":"PROSHARES ULTRA SHT"
+}, {
+"symbol":"ZTS",
+"Cname":"ZOETIS INC."
+}, {
+"symbol":"ZUMZ",
+"Cname":"ZUMIEZ INC"
+}, {
+"symbol":"ZYNE",
+"Cname":"ZYNERBA PHARMA CS"
+}]
+}

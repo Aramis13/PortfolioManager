@@ -1,0 +1,93 @@
+﻿
+<div id="main">
+    <div class="loader"></div>
+
+    <div id="wrapper">
+
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#" onclick="LoadDashboard()">
+                        Main Menu
+                    </a>
+                </li>
+                <li>
+                    <a href="#" onclick="LoadCurrency()">Currency Converter</a>
+                </li>
+                <!--<li>
+                    <a href="#">Foreign Exchange</a>
+                </li>
+                <li>
+                    <a href="#">Crypto Currencies</a>
+                </li>
+                <li>
+                    <a href="#">Sector Performance</a>
+                </li>-->
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+
+
+            <!--<div class="container-fluid">-->
+
+            <div class="panel panel-primary container-fluid" id="top-panel">
+                <button id="toggle-btn">
+                    <i href="#menu-toggle" class="fa fa-bars" id="menu-toggle" onclick="Toggle(event)"></i>
+                </button>
+
+                <a id="userName"></a>
+
+                <button class="btn btn-info" id="logutBtn" onclick="Logout()">Logout</button>
+
+                <select class="form-control" id="stockSelect" style="height: 50%">
+                    <!--<option><<< Select A Stock >>></option>-->
+                </select>
+                <button class="btn btn-primary" id="addStockBtn" onclick="AddStock()">Add Stock</button>
+
+            </div>
+
+            <!--<p id="welcome">Welcome</p>-->
+
+            <div class="container" id="innerpage">
+
+                <div class="container" id="table-view">
+                    <table class="table table-dark table-hover table-responsive" id="dataTable">
+                        <thead>
+                            <tr>
+                                <th>Symbol</th>
+                                <th>Open</th>
+                                <th>High</th>
+                                <th>Low</th>
+                                <th>Close</th>
+                                <th>Volume</th>
+                                <th>Purchase Date</th>
+                                <th>Purchase Value</th>
+                                <th>Change (%)</th>
+                                <th>change ($)</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+
+                    </table>
+                </div>
+                <!--</div>-->
+                <!--</div>-->
+                <div id="chartcontainer" class="container">
+                    <div id="timespan" class="btn-group btn-group-justified">
+                        <a href="#" id="Intraday" class="btn btn-primary" onclick="ChangeTimeSpan(event)">Intraday</a>
+                        <a href="#" id="Daily" class="btn btn-primary" onclick="ChangeTimeSpan(event)">Daily</a>
+                        <a href="#" id="Weekly" class="btn btn-primary" onclick="ChangeTimeSpan(event)">Weekly</a>
+                        <a href="#" id="Monthly" class="btn btn-primary" onclick="ChangeTimeSpan(event)">Monthly</a>
+                    </div>
+                    <div id="chartdiv"></div>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+    </div>
+
+    </div>

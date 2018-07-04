@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>My Web Project</title>
+
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/select2.full.min.js"></script>
+
+    <script src="js/moment.min.js"></script>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    <!--<link rel="stylesheet" href="css/local.css"/>-->
+    <link rel="stylesheet" href="css/MainTheme.css" />
+    <link rel="stylesheet" href="css/select2.min.css" />
+    <script src="js/GeneralControl.js"></script>
+    <script src="js/fontawesome-all.min.js"></script>
+
+    <!--AmCharts Ref-->
+    <script src="AmCharts/amcharts/amcharts.js"></script>
+    <script src="AmCharts/amcharts/serial.js"></script>
+    <script src="AmCharts/amcharts/amstock.js"></script>
+    <script src="AmCharts/amcharts/plugins/export/export.min.js"></script>
+    <link rel="stylesheet" href="AmCharts/amcharts/plugins/export/export.css" type="text/css" media="all" />
+    <script src="AmCharts/amcharts/themes/dark.js"></script>
+
+</head>
+
+<body>
+    <div id="main">
+
+        <div class="container">
+            <div class="card card-container">
+
+                <img id="profile-img" class="profile-img-card" src="icons/man-human-person-login-512.png" />
+                <p id="profile-name" class="profile-name-card"></p>
+                <form class="form-signin" id="mainForm">
+                    <span id="reauth-email" class="reauth-email"></span>
+                    <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+                    <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+                   
+                    <button id="submit" class="btn btn-lg btn-primary btn-block btn-signin" type="submit" onsubmit="Validate()">Sign in</button>
+                   
+                    <div id="options" class="container">
+
+                        <a href="#" class="create-account" data-toggle="modal" data-target="#myModal">
+                            Create a new account
+                        </a>
+
+                        <span id="error"></span>
+                    </div>
+
+            </div><!-- /card-container -->
+
+        </div><!-- /container -->
+
+            <div class="container">
+               
+                <!-- Modal -->
+                <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                
+                                <h4 class="modal-title">Sign Up</h4>
+                            </div>
+                            <div class="modal-body">
+
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"></span>
+                                    </div>
+                                    <input type="text" id="Fname" class="form-control" placeholder="First Name" aria-label="Fname" aria-describedby="basic-addon1">
+                                </div>
+
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"></span>
+                                    </div>
+                                    <input type="text" id="Lname" class="form-control" placeholder="Last Name" aria-label="Lname" aria-describedby="basic-addon1">
+                                </div>
+
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"></span>
+                                    </div>
+                                    <input type="text" id="email" class="form-control" placeholder="Email" aria-label="email" aria-describedby="basic-addon1">
+                                </div>
+
+                                <div class="input-group mb-3">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"></span>
+                                    </div>
+                                    <input type="text" id="signPassword" class="form-control" placeholder="Password" aria-label="signPassword" aria-describedby="basic-addon1">
+                                </div>
+
+                                <div class="form-group ">
+                                    <button type="button" class="btn btn-primary btn-block" onclick="CreateNewAccount(event)">Register</button>
+                                </div>
+
+
+                                <span id="newaccountmsg"></span>
+
+                            </div>
+                            
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+</body>
+</html>
+
+<script>
+    var uri = 'api/Login/';
+
+    $('#mainForm').submit(function (e) {
+        e.preventDefault();
+
+        var data = {
+            'email': $('#inputEmail').val(),
+            'password': $('#inputPassword').val()
+        }
+
+        $('#error').html("");
+        var res = $.post(uri, data);
+        res.done(LoadMain);
+        
+
+    });
+
+</script>

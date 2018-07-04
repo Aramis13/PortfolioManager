@@ -1,0 +1,82 @@
+[
+  {
+    "email": "a@gmail.com",
+    "stocks": [
+      {
+        "symbol": "GOOGL",
+        "Purchase Date": "Wed May 16 2018 15:56:28 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "1082.2300"
+      },
+      {
+        "symbol": "AAPL",
+        "Purchase Date": "Wed May 16 2018 15:56:58 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "185.7700"
+      },
+      {
+        "symbol": "AMZN",
+        "Purchase Date": "Wed May 16 2018 15:57:06 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "1569.7200"
+      },
+      {
+        "symbol": "GM",
+        "Purchase Date": "Wed May 16 2018 15:57:26 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "36.8360"
+      },
+      {
+        "symbol": "AAN",
+        "Purchase Date": "Sat May 26 2018 14:03:58 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "41.1100"
+      },
+      {
+        "symbol": "TEVA",
+        "Purchase Date": "Sat May 26 2018 14:04:18 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "22.1300"
+      },
+      {
+        "symbol": "EBAY",
+        "Purchase Date": "Wed May 30 2018 18:52:20 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "37.8300"
+      },
+      {
+        "symbol": "AFSI",
+        "Purchase Date": "Sun Jul 01 2018 12:29:55 GMT+0300 (Israel Daylight Time)",
+        "Purchase Value": "14.6000"
+      }
+    ]
+  },
+  {
+    "email": "orkib87@gmail.com",
+    "stocks": [
+      {
+        "symbol": "GOOGL",
+        "Purchase Date": "Wed May 16 2018 18:13:29 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "1085.0450"
+      }
+    ]
+  },
+  {
+    "email": "mati.avs@gmail.com",
+    "stocks": [
+      {
+        "symbol": "CORN",
+        "Purchase Date": "Wed May 30 2018 15:10:11 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "18.2800"
+      }
+    ]
+  },
+  {
+    "email": "yosephagam@gmail.com",
+    "stocks": [
+      {
+        "symbol": "TEVA",
+        "Purchase Date": "Fri Jun 01 2018 22:51:25 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "21.9500"
+      },
+      {
+        "symbol": "AAPL",
+        "Purchase Date": "Fri Jun 01 2018 22:54:16 GMT+0300 (Jerusalem Daylight Time)",
+        "Purchase Value": "119.9400"
+      }
+    ]
+  }
+]

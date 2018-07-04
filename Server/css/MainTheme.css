@@ -1,0 +1,448 @@
+﻿/*
+ * Specific styles of signin component
+ */
+/*
+ * General styles
+ */
+body ,html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: url("/Wallpaper/181481.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 0%;
+
+}
+
+.svg-inline--fa.fa-w-14 {
+    width: 30px;
+    height: 30px;
+}
+
+#userName {
+    float: left;
+    margin-top: 0.4%;
+    margin-left: 0.7%;
+    color: rgba(255,255,255,0.9);
+    font-size: 29px;
+}
+
+
+#toggle-btn {
+    background: transparent;
+    border: transparent;
+    width: 46px;
+    outline: none;
+    float: left;
+    margin-top: 0.95%;
+    /*position: relative;
+    top: 13px;*/
+}
+
+#menu-toggle {
+    color: #4682B4;
+}
+
+#toggle-btn:hover {
+    opacity: 0.4;
+}
+#sidebar-wrapper {
+    opacity: 0.8;
+    
+}
+
+.sidebar-nav li {
+    color: rgba(255,255,255,0.9) !important;
+}
+
+.sidebar-nav li a{
+    color: rgba(255,255,255,0.9) !important;
+}
+
+.card-container.card {
+    max-width: 350px;
+    padding: 40px 40px;
+}
+
+.btn {
+    font-weight: 700;
+    height: 36px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+
+/*
+ * Card component
+ */
+.card {
+    background-color: #F7F7F7;
+    /* just in case there no content*/
+    padding: 20px 25px 30px;
+    margin: 0 auto 25px;
+    margin-top: 50px;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.profile-img-card {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+/*
+ * Form styles
+ */
+.profile-name-card {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0 0;
+    min-height: 1em;
+}
+
+.reauth-email {
+    display: block;
+    color: #404040;
+    line-height: 2;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-signin #inputEmail,
+.form-signin #inputPassword {
+    direction: ltr;
+    height: 44px;
+    font-size: 16px;
+}
+
+.form-signin input[type=email],
+.form-signin input[type=password],
+.form-signin input[type=text],
+.form-signin button {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    position: relative;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-signin .form-control:focus {
+    border-color: rgb(104, 145, 162);
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(104, 145, 162);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(104, 145, 162);
+}
+
+.btn.btn-signin {
+    /*background-color: #4d90fe; */
+    background-color: rgb(104, 145, 162);
+    /* background-color: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));*/
+    padding: 0px;
+    font-weight: 700;
+    font-size: 14px;
+    height: 36px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border: none;
+    -o-transition: all 0.218s;
+    -moz-transition: all 0.218s;
+    -webkit-transition: all 0.218s;
+    transition: all 0.218s;
+}
+
+    .btn.btn-signin:hover,
+    .btn.btn-signin:active,
+    .btn.btn-signin:focus {
+        background-color: rgb(12, 97, 33);
+    }
+
+.forgot-password {
+    color: rgb(104, 145, 162);
+}
+
+    .forgot-password:hover,
+    .forgot-password:active,
+    .forgot-password:focus {
+        color: rgb(12, 97, 33);
+    }
+
+.create-account {
+    color: rgb(104, 145, 162);
+    float: left;
+}
+
+    .create-account:hover,
+    .create-account:active,
+    .create-account:focus {
+        color: rgb(12, 97, 33);
+    }
+
+#options {
+    max-width: 190px !important;
+    text-align: center !important;
+}
+
+#welcome {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 8rem;
+    line-height: 8rem;
+    font-family: lato;
+    font-weight: 900;
+    text-align: center;
+    text-shadow: 9px 9px rgba(255,255,255,0.5);
+}
+
+.table-dark {
+    opacity: 0.92;
+    /*position: absolute;
+    left: 20%;*/
+    /*height: 200px;
+    width: 900px;*/
+    max-height: 320px;
+    /*max-width: 55%;*/
+}
+
+
+
+#top-panel {
+    background: black;
+    opacity: 0.8;
+    min-height: 56px;
+    margin-top: -1%;
+}
+
+#line {
+    width: 900px;
+}
+
+#addrow {
+    /*position: relative;
+    top: 208px;
+    left: 13.7%;*/
+    /*max-width: 900px;*/
+    opacity: 0.8;
+    /*max-width: 10%;*/
+    width: 10%;
+    float: left;
+    display: inline;
+    /*margin: auto;*/
+}
+
+#table-view {
+    margin-top: 1%;
+    max-width: 100%;
+    /*max-width: 96%;
+    min-width: 96%;*/
+}
+
+#innerpage{
+    max-width: 100%;
+}
+
+#chartdiv {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(0,0,0);
+    opacity: 0.5;
+    color: #fff;
+    margin-bottom: 0.5%;
+}
+
+#select-stock {
+    display: inline;
+    max-width: 10%;
+}
+
+#addStockBtn {
+    background: #4682B4;
+    /*position: relative;
+    left: 70%;*/
+    float: right;
+    margin-top: 0.7%;
+    margin-right: 0.8%;
+}
+
+.select2 {
+    width: 20% !important;
+    float: right;
+    margin-top: 0.7% !important;
+}
+
+.select2-container {
+    height: 40px;
+}
+
+.select2-selection__arrow b {
+    top: 70% !important;
+}
+
+.select2-container--default .select2-selection--single {
+    height: 90% !important;
+}
+.select2-container .select2-selection--single .select2-selection__rendered {
+    padding-left: unset;
+    padding-right: unset;
+    text-align: center;
+    padding-top: 3px;
+}
+    #stockSelect {
+    width: 20%;
+    float: right;
+    margin-top: 0.6%;
+}
+
+
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    position: absolute;
+    z-index: 1000;
+    left: 48%;
+    top: 48%;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#timespan {
+    width: 100%;
+    margin-bottom: 0.5%;
+    
+}
+
+#Intraday {
+    background: black;
+    opacity: 0.8;
+    width: 25%;
+}
+
+#Daily {
+    background: black;
+    opacity: 0.8;
+    width: 25%;
+}
+
+#Weekly {
+    background: black;
+    opacity: 0.8;
+    width: 25%;
+}
+
+#Monthly {
+    background: black;
+    opacity: 0.8;
+    width: 25%;
+}
+
+#chartcontainer {
+    max-width: unset;
+    width: 100% !important;
+    height: 300px !important;
+    /*margin-left: -1%;*/
+}
+
+#logutBtn {
+    /*background: #4682B4;*/
+    float: right;
+    margin-top: 0.7%;
+    margin-left: 3.8%;
+}
+
+
+
+.panel {
+    background-color: rgb(0,0,0);
+    opacity: 0.8;
+    /*border: solid white;*/
+}
+
+/*.results {
+    font-size: 1em;
+    color: #FFFFFF;
+}*/
+
+.dropdown {
+    margin-bottom: 50px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.center {
+    width: 90%;
+    margin: 0 auto 30px;
+}
+
+#currency-view {
+    color: rgba(255,255,255,0.9);
+   
+    margin-top: 5%;
+    
+}
+
+#currencyBtn {
+    margin-bottom: 2%;
+}
+
+#radio1 {
+    float: left;
+    width: 56%;
+}
+
+
+#dataTable::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0);
+}
+
+#dataTable::-webkit-scrollbar {
+    width: 12px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+#dataTable::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+}
+
+#error{
+    color: red;
+    float: left;
+}
