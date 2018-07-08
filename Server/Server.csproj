@@ -2968,27 +2968,7 @@
     <Content Include="js\select2.full.min.js" />
     <Content Include="js\select2.min.js" />
     <Content Include="login.html" />
-    <Content Include="Wallpaper\11391.jpg" />
-    <Content Include="Wallpaper\117057.jpg" />
-    <Content Include="Wallpaper\121827.jpg" />
     <Content Include="Wallpaper\181481.jpg" />
-    <Content Include="Wallpaper\203808.jpg" />
-    <Content Include="Wallpaper\209308.jpg" />
-    <Content Include="Wallpaper\293496.jpg" />
-    <Content Include="Wallpaper\304006.jpg" />
-    <Content Include="Wallpaper\312414.jpg" />
-    <Content Include="Wallpaper\343805.jpg" />
-    <Content Include="Wallpaper\422178.jpg" />
-    <Content Include="Wallpaper\492493.jpg" />
-    <Content Include="Wallpaper\591940.jpg" />
-    <Content Include="Wallpaper\611007.jpg" />
-    <Content Include="Wallpaper\618357.jpg" />
-    <Content Include="Wallpaper\654258.jpg" />
-    <Content Include="Wallpaper\692164.png" />
-    <Content Include="Wallpaper\700296.jpg" />
-    <Content Include="Wallpaper\774486.jpg" />
-    <Content Include="Wallpaper\804686.jpg" />
-    <Content Include="Wallpaper\UBWbg6v-salvador-dali-wallpaper.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
