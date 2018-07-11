@@ -83,6 +83,10 @@ function LoadMain(res) {
 
         $('#main').replaceWith(res);
 
+        $('#addStockBtn').popover({
+            trigger: 'focus',
+            placement: 'left'
+        });
         
         $("#wrapper").fadeTo(100, 0.5);
 
@@ -299,11 +303,23 @@ function sortTable(table, order) {
 }
 
 function AddStock() {
+
+    var stock = $('#stockSelect').val();
+
+    if (stock == null) {
+
+        $('#addStockBtn').popover('enable');
+        return;
+    }
+    else
+        $('#addStockBtn').popover('disable');
+
+
     $('#addStockBtn').text('');
     $('#addStockBtn').append('<i class="fa fa-spinner fa-spin"></i> Pulling Data'); 
     $('#addStockBtn').prop("disabled", true);
     setTimeout(EnableAddStockBtn, 30000);
-    var stock = $('#stockSelect').val();
+    
     GetData(CurTimeSpan, stock, "1min");
     var id = setInterval(GetData(CurTimeSpan, stock, "1min"), 60000);
     stockIntervals.push({
@@ -602,6 +618,14 @@ var loaded = false;
 function Toggle(e) {
     e.preventDefault();
     $("#wrapper").toggleClass("toggled");
+    if (!$("#wrapper").hasClass("toggled") && $(document).width() > 1285) {
+        $("#web-header").show();
+        $("#logo").show();
+    } else {
+        $("#web-header").hide();
+        $("#logo").hide();
+    }
+    
 }
 
 var stocksDB = [];
@@ -656,6 +680,9 @@ function EnableAddStockBtn() {
     $('#addStockBtn').remove('i');
     $('#addStockBtn').prop("disabled", false);
     $('#addStockBtn').text('Add Stock');
+   
+    $("#stockSelect").val('').trigger('change');
+    
 }
 
 
@@ -1187,3 +1214,4 @@ function ChangeTimeSpan(e) {
     });
 
 }
+

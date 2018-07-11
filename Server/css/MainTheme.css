@@ -446,3 +446,24 @@ body ,html {
     color: red;
     float: left;
 }
+
+#logo {
+    width: 153px;
+    height: 32px;
+    margin-left: -3%;
+    margin-top: 1%;
+    color: mediumpurple;
+}
+
+#web-header {
+    float: left;
+    color: mediumpurple;
+    margin-top: 0.5%;
+    margin-left: 12%;
+}
+
+@media (max-width: 1285px) {
+    #web-header, #logo {
+        display: none;
+    }
+}
