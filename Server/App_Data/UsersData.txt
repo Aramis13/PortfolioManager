@@ -1,1 +1,0 @@
-[{"email":"a@gmail.com","password":"1","Fname":"Idan","Lname":"Agam","stocks":["CHKP","TM"]}]
