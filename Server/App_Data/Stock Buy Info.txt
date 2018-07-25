@@ -1,0 +1,17 @@
+[
+  {
+    "email": "a@gmail.com",
+    "stocks": [
+      {
+        "symbol": "CHKP",
+        "Purchase Date": "Wed Jul 25 2018 20:47:19 GMT+0300 (Israel Daylight Time)",
+        "Purchase Value": "115.0500"
+      },
+      {
+        "symbol": "TM",
+        "Purchase Date": "Wed Jul 25 2018 20:49:34 GMT+0300 (Israel Daylight Time)",
+        "Purchase Value": "89.3800"
+      }
+    ]
+  }
+]

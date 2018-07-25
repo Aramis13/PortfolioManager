@@ -799,12 +799,20 @@ var cnt = 0;
 
 function exchangeCurrency() {
 
+
+    if ($('#curAmount').val() == "") {
+        $('.results').html("Please enter amount to convert");
+        return;
+    }
     var sym;
     var from = String($('#curFrom').val());
     var to = String($('#curTo').val());
     //var from = $("#curFrom option:selected").text();
     //var to = $("#curTo option:selected").text();
-
+    if (from == "--Select--" || to == "--Select--") {
+        $('.results').html("Please select currency symbol");
+        return;
+    }
 
     $.each(SymbolsDb, function (i, value) {
         if (value["type"] == "Crypto") {
