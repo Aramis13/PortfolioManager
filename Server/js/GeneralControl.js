@@ -6,6 +6,11 @@ function CreateNewAccount(e) {
     var email = $('#email').val();
     var password = $('#signPassword').val();
 
+    if (fname == "" || lname == "" || email == "" || password == "") {
+        $('#newaccountmsg').html("Please fill all fields");
+        return;
+    }
+
     var data = {
         "email": email,
         "password": password,
@@ -19,12 +24,11 @@ function CreateNewAccount(e) {
 
     req.done(function (res) {
         if (res != "-1") {
-            
             $('#newaccountmsg').html("Account Created Succefuly!!!");
             setTimeout(ReloadPage, 2000);
         }
         else
-            $('#newaccountmsg').html("Email is not valid!!!")
+            $('#newaccountmsg').html("Email Already Exist!!!")
     });
 
     
@@ -61,8 +65,8 @@ function Logout() {
 
             req.done(function (res) {
                 if (res != "-1") {
-                    // $('#main').empty();
                     $('body').replaceWith(res);
+                    location.reload();
                 }
 
 
