@@ -310,8 +310,6 @@
     <Content Include="AmCharts\amcharts\themes\dark.js" />
     <Content Include="AmCharts\amcharts\themes\light.js" />
     <Content Include="AmCharts\amcharts\themes\patterns.js" />
-    <Content Include="AmCharts\images\logo.png" />
-    <Content Include="AmCharts\images\style.css" />
     <Content Include="App_Data\Crypto.txt" />
     <Content Include="App_Data\Currencies.txt" />
     <Content Include="App_Data\Stock Symbols.txt" />
@@ -1724,6 +1722,7 @@
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\Shmil - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

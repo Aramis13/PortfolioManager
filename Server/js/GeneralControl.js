@@ -59,7 +59,7 @@ function Logout() {
         function () {
             var data = {
                 "email": "0"
-            }
+            };
 
             var req = $.post('api/Login/', data);
 
@@ -588,10 +588,10 @@ function AddRow(row) {
          $("#wrapper").fadeTo(1000, 1);
          loaded = true;
      }
-     var data = {
-         "email": CurUserMail,
-         "stocktoadd": row[0]
-     }
+    var data = {
+        "email": CurUserMail,
+        "stocktoadd": row[0]
+    };
 
     
 
@@ -723,7 +723,7 @@ function UpdateTableView(data) {
         var exist = $("#table-view:contains(" + sym + ")");
         var realTimeRow = [];
         realTimeRow.push(sym);
-        for (var i = row.length - 1; i > row.length - 6; i--) {
+        for (var i = 499; i > 499 - 6; i--) {
             realTimeRow.push(row[i]);
         }
 
@@ -773,7 +773,8 @@ function UpdatePerDif(symbol, newval) {
                 var Original = parseFloat(value["Purchase Value"]);
                 var Increase = parseFloat(newval) - Original;
 
-                var valPer = Increase / (Original * 100);
+            var valPer = Increase / Original;
+            valPer = valPer * 100;
                 var valDif = Increase;
 
                 if ($("#" + symbol + "8").html() != valPer) {
